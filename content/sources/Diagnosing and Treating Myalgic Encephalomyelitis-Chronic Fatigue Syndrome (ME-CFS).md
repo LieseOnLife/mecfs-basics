@@ -66,6 +66,8 @@ No abstract. The handout describes itself as basic information on recognizing th
 
 The onset of ME/CFS is often sudden. Frequently, patients report that an infectious-like syndrome or infectious disease (such as infectious mononucleosis or flu-like illness) preceded the onset of their disease. ^q1
 
+Diagnosis requires a thorough medical history, a physical exam, and recognition of the following core symptoms: ^q2
+
 - Substantial reduction or impairment in the ability to engage in pre-illness activity that persists for 6 months or more and is accompanied by fatigue. The fatigue is profound, not lifelong, not the result of ongoing exertion, and not alleviated by rest. ^q3
 - Post-exertional malaise (PEM) in which physical or mental activities result in a typically delayed and prolonged exacerbation of symptoms and reduction in functioning (discussed further below). ^q4
 - Unrefreshing sleep and a variety of sleep disturbances ^q5
