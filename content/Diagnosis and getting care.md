@@ -1,0 +1,94 @@
+---
+title: "Diagnosis and getting care"
+created: 2026-11-08
+updated: 2026-11-08
+---
+← Previous: [[Daily life and caring at home|Daily life and caring at home]] · [[index|🏠 Home]] · Next: [[Reading the research|Reading the research]] →
+
+
+>[!warning] Evidence log, not medical advice
+>This page explains what research found and what people report. It doesn't recommend treatments. Talk through any change with a clinician who knows ME/CFS.
+
+> [!summary] Quick answer
+> No test can confirm ME/CFS yet.[[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q4|CDC 2024]] Clinicians diagnose it from a thorough history, a physical exam, lab tests, and a targeted workup to rule out other fatiguing illnesses.[[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q4|CDC 2024]] In the US, the criteria require symptoms for 6 months or more,[[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q10|CDC 2024]] including post-exertional malaise and unrefreshing sleep;[[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q14|IOM 2015]][[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q15|q15]] the UK's NICE guideline diagnoses after 3 months.[[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q41|NICE 2021]][[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q42|q42]] It's a positive diagnosis that can exist alongside other conditions.[[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)#^q12|Coalition 2020]] A one- to two-week diary of activities and symptoms can help reveal PEM.[[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q29|IOM 2015]]
+
+## How diagnosis works
+- **No confirmatory test.** People with ME/CFS often have biological abnormalities, but none is sensitive and specific enough to be a diagnostic test.[^cdc-notest] The Clinician Coalition notes that tests are still useful for finding other fatiguing illnesses or conditions that often occur alongside ME/CFS.[^coal-tests]
+- **History, exam, targeted workup.** The IOM says these are needed for a differential diagnosis and are often enough to diagnose ME/CFS.[^iom-workup] Clinicians assess the severity and duration of symptoms over the past month or more,[^iom-severity] and how often they occur.[^iom-severity-half]
+- **The criteria.** In the US: three required symptoms (reduced function with fatigue, PEM, unrefreshing sleep) plus cognitive impairment or orthostatic intolerance;[^cdc-criteria] details on [[What ME-CFS is#The core symptoms|The core symptoms]]. NICE in the UK requires all four of debilitating fatigue, PEM, unrefreshing sleep or sleep disturbance, and cognitive difficulties.[^nice-box2]
+- **Ruling things out.** NICE lists example blood tests to exclude other diagnoses, including a full blood count, thyroid function, inflammation markers (ESR or plasma viscosity, C-reactive protein), ferritin, coeliac screening, and creatine kinase.[^nice-tests] Clinicians may add others, such as vitamin D, B12 and folate levels, serological tests if there's a history of infection, or 9am cortisol for adrenal insufficiency.[^nice-more-tests]
+- **Orthostatic testing.** A standing test (the NASA Lean Test) or a tilt-table test can assess orthostatic intolerance.[^coal-lean] The IOM mentions using these to check for postural tachycardia syndrome (POTS), neurally mediated hypotension, and orthostatic hypotension.[^iom-pots]
+- **Other conditions don't rule it out.** Comorbidities such as fibromyalgia and irritable bowel syndrome are common and should be diagnosed and treated; another illness should only rule out ME/CFS if it explains all the symptoms.[^iom-comorbid] The Coalition notes that ME/CFS used to be diagnosed by excluding everything else first, and that the 2015 report made it a positive diagnosis.[^coal-positive]
+- **Not quite meeting the criteria.** People with 6 months or more of unexplained impaired function and fatigue who don't fully meet the definition can be managed like ME/CFS and monitored.[^cdc-near]
+
+## How long before a diagnosis?
+The US and UK use different time frames.
+
+| | United States (IOM 2015, CDC) | United Kingdom (NICE 2021) |
+|---|---|---|
+| Suspect ME/CFS | During the evaluation period, while other conditions are checked[^cdc-eval] | All four key symptoms for at least 6 weeks in adults (4 weeks in children and young people), with significantly reduced activity and not explained by another condition[^nice-suspect] |
+| Diagnose | Symptoms for 6 months or more[^cdc-sixmonths] [^iom-duration] | Symptoms for 3 months, not explained by another condition[^nice-3months] |
+
+Six months was chosen because most other causes of similar fatigue don't last beyond 6 months.[^iom-why6]
+
+## What guidelines ask of clinicians
+NICE tells clinicians to build supportive, trusting, empathetic relationships, acknowledge the reality of living with ME/CFS, and take a person-centred approach.[^nice-relationship] The Coalition says the most important thing a clinician can do is validate the illness for the patient and their family.[^coal-validate]
+
+- **Families and carers** are involved in discussions and care planning if the person with ME/CFS chooses.[^nice-family]
+- **Appointments** should be adapted: timing, length, and frequency; travel and parking; sensitivity to light, sound, touch, pain, temperature, and smells; and phone, online, or home visits.[^nice-appointments] Someone shouldn't be discharged for missing appointments, because it could be due to worsening symptoms.[^nice-missed] Severely affected patients may need to lie down during the interview.[^iom-liedown]
+- **Specialist teams:** NICE says adults should be referred directly to an ME/CFS specialist team to confirm the diagnosis and develop a care and support plan.[^nice-specialist]
+- **A care and support plan** covers help with daily living, mobility aids and adaptations, energy management, symptom and medicines management, and who to contact.[^nice-plan] The person with ME/CFS is in charge of its aims,[^nice-incharge] it's reviewed at least once a year for adults,[^nice-review] and there should be a named contact to coordinate care and help during relapses.[^nice-contact]
+- **Medicines:** people with ME/CFS are often more sensitive to medicines and may need lower-than-standard doses,[^cdc-doses] and the Coalition advises starting low and increasing slowly.[^coal-doses] The CDC encourages talking about supplements before starting them,[^cdc-supplements] and warns that many treatments promoted as cures are unproven, often costly, and could be dangerous.[^cdc-cures]
+- **Practical support:** patients may need help with school or work accommodations, disability applications, parking permits, assistive devices, or home health aides.[^coal-support]
+
+> [!quote] 🗣️ Lived experience: r/cfs, 2024
+> After almost 30 years of low energy, one person was diagnosed only after a sleep study, and then had to chase the results: “In person appointment, doctor doesn‘t have time - she‘ll call me - she didn‘t.” One account of a slow path to diagnosis.[[A 30-year journey to a CFS diagnosis#^q1|r/cfs, 2024]][[A 30-year journey to a CFS diagnosis#^q5|q5]]
+
+## Helping someone prepare
+- **A diary helps.** The IOM suggests a diary of activities and symptoms for a week or two because PEM may be delayed after its trigger.[^iom-diary] The CDC suggests a couple of weeks and notes that some patients don't recognize PEM early in their illness.[^cdc-diary] The Coalition says a two-week diary may help identify PEM.[^coal-diary] The ME Association suggests summarizing the diary when speaking with a GP, to track changing needs or progress.[^mea-diary]
+- **What clinicians look for:** whether symptoms are present at least half the time at moderate or severe intensity.[^iom-severity-half]
+- **Home visits and remote appointments:** NICE tells services to offer home visits to people with severe or very severe ME/CFS for their assessment and care planning,[^nice-homevisits] and to provide care flexibly, including by phone or online.[^nice-appointments]
+
+← Previous: [[Daily life and caring at home|Daily life and caring at home]] · [[index|🏠 Home]] · Next: [[Reading the research|Reading the research]] →
+
+[^cdc-notest]: **CDC 2024**, clinical care pages for clinicians (informational; not a federal treatment guideline). [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q4|passage]]
+[^cdc-sixmonths]: **CDC 2024**, clinical care pages. [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q10|passage]]
+[^coal-positive]: **US ME/CFS Clinician Coalition 2020**, clinician handout (US expert consensus). [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)#^q12|passage]]
+[^iom-diary]: **IOM 2015**, Report Guide for Clinicians. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q29|passage]]
+[^coal-tests]: **US ME/CFS Clinician Coalition 2020**, clinician handout. [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)#^q10|passage]]
+[^iom-workup]: **IOM 2015**, Report Guide for Clinicians. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q19|passage]]
+[^iom-severity]: **IOM 2015**, Report Guide for Clinicians. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q20|passage]]
+[^cdc-criteria]: **CDC 2024**, clinical care pages. [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q5|passage]] · [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q6|passage]] · [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q7|passage]] · [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q8|passage]] · [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q14|passage]]
+[^nice-box2]: **NICE 2021**, guideline NG206, box 2 symptoms. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q14|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q17|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q18|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q22|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q25|passage]]
+[^iom-duration]: **IOM 2015**, diagnostic criteria. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q13|passage]]
+[^nice-tests]: **NICE 2021**, UK guideline NG206; examples, "not limited to" this list. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q29|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q30|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q31|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q32|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q33|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q34|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q35|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q36|passage]]
+[^nice-more-tests]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q37|passage]]
+[^coal-lean]: **US ME/CFS Clinician Coalition 2020**, clinician handout. [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)#^q11|passage]]
+[^iom-pots]: **IOM 2015**, Report Guide for Clinicians. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q31|passage]]
+[^iom-comorbid]: **IOM 2015**, Report Guide for Clinicians. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q23|passage]]
+[^cdc-near]: **CDC 2024**, clinical care pages. [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q13|passage]]
+[^cdc-eval]: **CDC 2024**, clinical care pages. [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q9|passage]]
+[^nice-suspect]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q14|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q15|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q16|passage]]
+[^nice-3months]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q41|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q42|passage]]
+[^iom-why6]: **IOM 2015**, Report Guide for Clinicians. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q21|passage]]
+[^nice-relationship]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q9|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q10|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q11|passage]]
+[^coal-validate]: **US ME/CFS Clinician Coalition 2020**, clinician handout. [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)#^q13|passage]]
+[^nice-family]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q12|passage]]
+[^nice-appointments]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q54|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q55|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q56|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q57|passage]]
+[^nice-missed]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q58|passage]]
+[^iom-liedown]: **IOM 2015**, Report Guide for Clinicians. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q30|passage]]
+[^nice-specialist]: **NICE 2021**, guideline NG206 (UK service structure). [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q43|passage]]
+[^nice-plan]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q44|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q45|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q46|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q47|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q48|passage]] · [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q49|passage]]
+[^nice-incharge]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q50|passage]]
+[^nice-review]: **NICE 2021**, guideline NG206 (review in primary care). [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q92|passage]]
+[^nice-contact]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q68|passage]]
+[^cdc-doses]: **CDC 2024**, clinical care pages. [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q35|passage]]
+[^coal-doses]: **US ME/CFS Clinician Coalition 2020**, clinician handout. [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)#^q16|passage]]
+[^cdc-supplements]: **CDC 2024**, clinical care pages. [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q37|passage]]
+[^cdc-cures]: **CDC 2024**, clinical care pages. [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q46|passage]]
+[^coal-support]: **US ME/CFS Clinician Coalition 2020**, clinician handout. [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)#^q14|passage]]
+[^coal-diary]: **US ME/CFS Clinician Coalition 2020**, clinician handout. [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)#^q9|passage]]
+[^cdc-diary]: **CDC 2024**, clinical care pages. [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q11|passage]] · [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q12|passage]]
+[^mea-diary]: **ME Association 2024**, "Caring for a person with ME/CFS" booklet (UK patient charity). [[Caring for a person with ME-CFS#^q8|passage]]
+[^iom-severity-half]: **IOM 2015**, footnote to the diagnostic criteria. [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness#^q18|passage]]
+[^nice-homevisits]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q108|passage]]
