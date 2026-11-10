@@ -4,7 +4,7 @@ docs: "[[📘ME-CFS]]"
 updated: 2026-11-08
 tags: [docs]
 ---
-← [[📘ME-CFS]] · 🪫 ME/CFS hub
+[[📘ME-CFS|🏠 Home]]
 
 # 📖 ME-CFS: glossary
 
@@ -84,6 +84,8 @@ NICE groups this as "unrefreshing sleep or sleep disturbance": waking exhausted,
 
 ### Ventilatory/anaerobic threshold (VAT)
 A threshold in an exercise test; one study describes oxygen uptake at this point (VO2@VAT) as representing a pivotal shift in oxygen transport, and possibly energy metabolism.[^keller-vat] See [[📘ME-CFS - Post-exertional malaise#The evidence: two-day exercise testing]].
+
+[[📘ME-CFS|🏠 Home]]
 
 [^stevens]: **Stevens 2018**, narrative methods review (authors charge for CPET disability evaluations). [[🔬Cardiopulmonary exercise test methodology for assessing exertion intolerance in ME-CFS -by- Staci Stevens#^q1|passage]]
 [^coal-fog]: **US ME/CFS Clinician Coalition 2020**, clinician handout. [[🔬Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS) -by- US ME-CFS Clinician Coalition#^q6|passage]]

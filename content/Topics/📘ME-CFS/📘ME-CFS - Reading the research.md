@@ -32,7 +32,7 @@ created: 2026-11-08
 updated: 2026-11-08
 tags: [docs]
 ---
-← [[📘ME-CFS]] · 🪫 ME/CFS hub · Related: [[📘ME-CFS - Post-exertional malaise]] · [[📘ME-CFS - Diagnosis and getting care]]
+← Previous: [[📘ME-CFS - Diagnosis and getting care|Diagnosis and getting care]] · [[📘ME-CFS|🏠 Home]]
 
 # Reading the research
 
@@ -75,7 +75,7 @@ tags: [docs]
 > - 💊Cognitive behavioral therapy: guideline stance *supportive only*; harm signal recorded
 > - 💊Pacing: guideline stance *recommended*
 >
-> These notes collect every corpus source on each treatment; see also 💊 Treatments Overview.
+> These notes collect every corpus source on each treatment.
 
 > [!quote] 🗣️ Lived experience: r/cfs, 2024
 > One person describes exercise programs designed by trainers before their diagnosis: "Each time they crafted a program for me, it made me crash BIG TIME within days." One person's experience of exercise programs, not of a GET trial.[[🗣️A 30-year journey to a CFS diagnosis -by- r-cfs member#^q1|r/cfs, 2024]][[🗣️A 30-year journey to a CFS diagnosis -by- r-cfs member#^q2|q2]][[🗣️A 30-year journey to a CFS diagnosis -by- r-cfs member#^q6|q6]]
@@ -86,10 +86,7 @@ tags: [docs]
 
 The IOM figure includes an estimate of undiagnosed people;[^iom-prevalence] the survey counts only self-reported diagnoses,[^nchs-ascertainment] so the two aren't directly comparable.
 
-## Related
-- [[📘ME-CFS - Post-exertional malaise]]: the 2-day exercise test evidence
-- [[📘ME-CFS - What ME-CFS is]]: the IOM criteria in plain language
-- [[📘ME-CFS - Daily life and caring at home]]: pacing and energy management
+← Previous: [[📘ME-CFS - Diagnosis and getting care|Diagnosis and getting care]] · [[📘ME-CFS|🏠 Home]]
 
 [^iom-pem-required]: **IOM 2015**, diagnostic criteria (Report Guide for Clinicians). [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q12|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q13|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q14|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q15|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q32|passage]]
 [^icc-pene]: **Carruthers 2011**, International Consensus Criteria (expert consensus; a correction exists). [[🔬Myalgic encephalomyelitis International Consensus Criteria -by- Bruce M. Carruthers#^q3|passage]]

@@ -28,7 +28,7 @@ created: 2026-11-08
 updated: 2026-11-08
 tags: [docs]
 ---
-← [[📘ME-CFS]] · 🪫 ME/CFS hub · Related: [[📘ME-CFS - What ME-CFS is]] · [[📘ME-CFS - Daily life and caring at home]]
+← Previous: [[📘ME-CFS - What ME-CFS is|What ME/CFS is]] · [[📘ME-CFS|🏠 Home]] · Next: [[📘ME-CFS - Daily life and caring at home|Daily life and caring at home]] →
 
 # Post-exertional malaise
 
@@ -74,10 +74,7 @@ A 2020 meta-analysis pooled 5 small studies with 98 patients and 51 controls; al
 
 **Interpreting this:** these studies measure PEM in research settings. The Coalition says no test is yet validated for diagnosing ME/CFS in clinical practice,[^coal-notest] and the IOM guide, which describes the 2-day CPET, warns it may severely worsen symptoms.[^iom-cpet] Authors of both the Keller study[^keller-coi] and a methods paper[^stevens-coi] run 2-day CPETs for a fee.
 
-## Related
-- [[📘ME-CFS - Daily life and caring at home]]: pacing, which aims to prevent PEM
-- [[📘ME-CFS - Reading the research]]: why it matters whether a study required PEM
-- [[📘ME-CFS - What ME-CFS is]]: PEM among the other core symptoms
+← Previous: [[📘ME-CFS - What ME-CFS is|What ME/CFS is]] · [[📘ME-CFS|🏠 Home]] · Next: [[📘ME-CFS - Daily life and caring at home|Daily life and caring at home]] →
 
 [^iom-pem]: **IOM 2015**, Institute of Medicine expert committee report, via its official Report Guide for Clinicians. [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q24|passage]]
 [^nice-pem]: **NICE 2021**, UK national guideline NG206, box 2 symptoms. [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q18|passage]] · [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q19|passage]] · [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q20|passage]] · [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q21|passage]]

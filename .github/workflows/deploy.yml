@@ -1,4 +1,4 @@
-# Builds the site on every PR; deploys to GitHub Pages on push to v5.
+# Builds the site on every PR and manual run; deploys to GitHub Pages only from v5.
 name: Build and deploy site
 
 on:
@@ -48,13 +48,13 @@ jobs:
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        if: github.event_name != 'pull_request'
+        if: github.ref == 'refs/heads/v5'
         uses: actions/upload-pages-artifact@v3
         with:
           path: public
 
   deploy:
-    if: github.event_name != 'pull_request'
+    if: github.ref == 'refs/heads/v5' # Pages only accepts deploys from v5
     needs: build
     permissions:
       pages: write

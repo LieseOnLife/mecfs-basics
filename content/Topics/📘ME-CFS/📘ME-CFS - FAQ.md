@@ -4,7 +4,7 @@ docs: "[[📘ME-CFS]]"
 updated: 2026-11-08
 tags: [docs]
 ---
-← [[📘ME-CFS]] · 🪫 ME/CFS hub
+[[📘ME-CFS|🏠 Home]]
 
 # ❓ ME-CFS: FAQ
 
@@ -61,6 +61,8 @@ The exercise trials in the Cochrane review used Fukuda or Oxford criteria;[^laru
 
 **How many people have ME/CFS?**
 The IOM estimated 836,000 to 2.5 million Americans, most undiagnosed;[^iom-prevalence] a 2021–2022 US survey found 1.3% of adults reported a diagnosis, which leaves out undiagnosed people.[^nchs] → [[📘ME-CFS - Reading the research#Why prevalence estimates differ]]
+
+[[📘ME-CFS|🏠 Home]]
 
 [^iom-serious]: **IOM 2015**, Report Guide for Clinicians. [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q1|passage]]
 [^iom-criteria]: **IOM 2015**, diagnostic criteria. [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q12|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q13|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q14|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q15|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q32|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q16|passage]] · [[🔬Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness -by- Institute of Medicine#^q17|passage]]

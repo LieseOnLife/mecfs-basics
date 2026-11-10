@@ -22,7 +22,7 @@ created: 2026-11-08
 updated: 2026-11-08
 tags: [docs]
 ---
-← [[📘ME-CFS]] · 🪫 ME/CFS hub · Related: [[📘ME-CFS - Post-exertional malaise]] · [[📘ME-CFS - Diagnosis and getting care]]
+[[📘ME-CFS|🏠 Home]] · Next: [[📘ME-CFS - Post-exertional malaise|Post-exertional malaise]] →
 
 # What ME/CFS is
 
@@ -74,10 +74,7 @@ There are therapies for managing symptoms, but how well they work isn't well und
 
 ME/CFS also affects families and carers: daily activities, family and social life, emotional wellbeing, work, and education.[^nice-families] See [[📘ME-CFS - Daily life and caring at home]].
 
-## Related
-- [[📘ME-CFS - Post-exertional malaise]]: the defining symptom in detail
-- [[📘ME-CFS - Diagnosis and getting care]]: how the criteria above are used
-- [[📘ME-CFS - Glossary]]: terms on this page
+[[📘ME-CFS|🏠 Home]] · Next: [[📘ME-CFS - Post-exertional malaise|Post-exertional malaise]] →
 
 [^nice-fluctuate]: **NICE 2021**, guideline NG206. [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q7|passage]]
 [^nice-severity]: **NICE 2021**, guideline NG206; severity definitions are described as a guide, not clear-cut. [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q1|passage]] · [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q2|passage]] · [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q3|passage]] · [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q4|passage]] · [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q5|passage]]

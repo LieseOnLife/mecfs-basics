@@ -29,7 +29,7 @@ created: 2026-11-08
 updated: 2026-11-08
 tags: [docs]
 ---
-← [[📘ME-CFS]] · 🪫 ME/CFS hub · Related: [[📘ME-CFS - Post-exertional malaise]] · [[📘ME-CFS - Diagnosis and getting care]]
+← Previous: [[📘ME-CFS - Post-exertional malaise|Post-exertional malaise]] · [[📘ME-CFS|🏠 Home]] · Next: [[📘ME-CFS - Diagnosis and getting care|Diagnosis and getting care]] →
 
 # Daily life and caring at home
 
@@ -93,10 +93,7 @@ NICE lists what severe and very severe illness can involve: severe constant pain
 > [!quote] 🗣️ Lived experience: r/mecfs, 2026
 > A person with very severe ME/CFS who depends on their father writes: "Every day I force myself to suppress emotions I can’t really control because I want to be kinder and easier to care for." They describe his care as sometimes life-sustaining and sometimes harmful, and find it hard to tell carer burnout from neglect. It's a reminder that strain affects both people.[[🗣️Very severe ME - bedbound and dependent on father -by- r-mecfs member#^q2|r/mecfs, 2026]][[🗣️Very severe ME - bedbound and dependent on father -by- r-mecfs member#^q8|q8]]
 
-## Related
-- [[📘ME-CFS - Post-exertional malaise]]: what pacing is trying to prevent
-- [[📘ME-CFS - Diagnosis and getting care]]: care and support plans, appointments
-- [[📘ME-CFS - Reading the research]]: why graded exercise is no longer recommended
+← Previous: [[📘ME-CFS - Post-exertional malaise|Post-exertional malaise]] · [[📘ME-CFS|🏠 Home]] · Next: [[📘ME-CFS - Diagnosis and getting care|Diagnosis and getting care]] →
 
 [^nice-em]: **NICE 2021**, UK guideline NG206, energy management. [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q69|passage]] · [[🔬Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206 -by- National Institute for Health and Care Excellence#^q70|passage]]
 [^cdc-exceed]: **CDC 2024**, clinical care pages. [[🔬Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers -by- Centers for Disease Control and Prevention#^q20|passage]]

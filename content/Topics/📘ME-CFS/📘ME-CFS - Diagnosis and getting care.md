@@ -23,7 +23,7 @@ created: 2026-11-08
 updated: 2026-11-08
 tags: [docs]
 ---
-← [[📘ME-CFS]] · 🪫 ME/CFS hub · Related: [[📘ME-CFS - What ME-CFS is]] · [[📘ME-CFS - Daily life and caring at home]]
+← Previous: [[📘ME-CFS - Daily life and caring at home|Daily life and caring at home]] · [[📘ME-CFS|🏠 Home]] · Next: [[📘ME-CFS - Reading the research|Reading the research]] →
 
 # Diagnosis and getting care
 
@@ -70,10 +70,7 @@ NICE tells clinicians to build supportive, trusting, empathetic relationships, a
 - **What clinicians look for:** whether symptoms are present at least half the time at moderate or severe intensity.[^iom-severity-half]
 - **Home visits and remote appointments:** NICE tells services to offer home visits to people with severe or very severe ME/CFS for their assessment and care planning,[^nice-homevisits] and to provide care flexibly, including by phone or online.[^nice-appointments]
 
-## Related
-- [[📘ME-CFS - What ME-CFS is]]: the symptoms the criteria describe
-- [[📘ME-CFS - Reading the research]]: why different definitions matter
-- [[📘ME-CFS - Daily life and caring at home]]: care plans in practice
+← Previous: [[📘ME-CFS - Daily life and caring at home|Daily life and caring at home]] · [[📘ME-CFS|🏠 Home]] · Next: [[📘ME-CFS - Reading the research|Reading the research]] →
 
 [^cdc-notest]: **CDC 2024**, clinical care pages for clinicians (informational; not a federal treatment guideline). [[🔬Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers -by- Centers for Disease Control and Prevention#^q4|passage]]
 [^cdc-sixmonths]: **CDC 2024**, clinical care pages. [[🔬Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers -by- Centers for Disease Control and Prevention#^q10|passage]]
