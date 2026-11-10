@@ -12,3 +12,7 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+
+# content/ is also an Obsidian vault: keep its settings, not its UI state
+!content/.obsidian/
+content/.obsidian/workspace*.json

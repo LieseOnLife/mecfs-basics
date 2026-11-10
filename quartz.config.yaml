@@ -79,7 +79,7 @@ plugins:
     order: 40
   - source: "@quartz-community/github-flavored-markdown"
     enabled: true
-    order: 30
+    order: 42 # after OFM, so same-note [[#^q1]] links resolve to block ids
   - source: "@quartz-community/table-of-contents"
     enabled: true
     order: 50
@@ -245,6 +245,8 @@ plugins:
         - description
         - tags
         - aliases
+        - link
+        - doi
       excludedProperties: []
       hidePropertiesView: false
     order: 5

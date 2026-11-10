@@ -1,17 +1,28 @@
-# Quartz v5
+# ME/CFS Basics
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+Sourced reference pages on ME/CFS for people caring for a loved one at home.
+Published at https://lieseonlife.github.io/mecfs-basics/ with [Quartz](https://quartz.jzhao.xyz) v5.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Layout
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+- `content/`: the site's pages. It's also an Obsidian vault: open the folder in Obsidian
+  to read or edit it. The `learn-citations` snippet styles citation chips there;
+  `quartz/styles/custom.scss` does the same on the site.
+  - `Topics/📘ME-CFS/`: the reference pages, starting at `📘ME-CFS.md`
+  - `Sources/`: one note per cited source, with the cited passages marked
+  - `Extras/Attachments/`: source PDFs that are CC BY or public domain. Other sources
+    link to the original instead.
+- `content/index.md`: the home page.
+- `.github/workflows/deploy.yml`: builds on every PR, deploys to GitHub Pages on push to `v5`.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## Preview locally
 
-## Sponsors
+```bash
+npm ci
+npx quartz plugin install
+npx quartz build --serve   # http://localhost:8080
+```
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## Upgrading Quartz
+
+`npx quartz upgrade` pulls new Quartz releases from upstream.
