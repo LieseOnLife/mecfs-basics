@@ -1,5 +1,11 @@
 @use "./variables.scss" as *;
 
+// Tags are off (tag pages disabled); folder listings still render each page's tag
+// chips, and folder-page has no option to turn them off.
+.page-listing ul.tags {
+  display: none;
+}
+
 // Citation chips: inside callouts, docs cite a saved source passage with
 // [[Source#^q3|Label]], which renders as a link to "#q3". Show those links as
 // small superscript chips, like content/.obsidian/snippets/learn-citations.css

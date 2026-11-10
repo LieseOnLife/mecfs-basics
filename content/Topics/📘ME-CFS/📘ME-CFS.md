@@ -13,7 +13,7 @@ created: 2026-11-08
 last_extended: 2026-11-08
 tags: [docs]
 ---
-← 🪫 ME/CFS hub · 🏠 Home · 📋 How to Use this
+Start reading: [[📘ME-CFS - What ME-CFS is|What ME/CFS is]] →
 
 # 📘 ME-CFS
 
@@ -42,7 +42,7 @@ tags: [docs]
 
 📖 [[📘ME-CFS - Glossary|Glossary]] · ❓ [[📘ME-CFS - FAQ|FAQ]]
 
-💊 Treatments discussed here: 💊Pacing · 💊Graded exercise therapy · 💊Cognitive behavioral therapy · all treatments: 💊 Treatments Overview
+💊 Treatments discussed here: 💊Pacing · 💊Graded exercise therapy · 💊Cognitive behavioral therapy
 
 ## 📚 Sources
 27 sources, each saved in `Sources/` with the cited passages marked. 🔬 research and guidelines (graded corpus notes), 📜 carer guides and expert statements, 🗣️ first-person accounts (paraphrased; no usernames).
@@ -83,23 +83,9 @@ tags: [docs]
 - **Orthostatic intolerance and POTS:** testing and what helps, in depth.
 - **Severe and very severe ME/CFS:** the 2026 home-care expert statement has much more (nutrition, hygiene, home visits) than the daily-life page uses.
 - **Long COVID overlap:** the corpus has Long COVID sources and the NASEM Long COVID definition.
-- **Treatment evidence by symptom:** link to 💊 Treatments Overview and the `💊` treatment notes, with evidence tiers.
 - **Children and young people:** NICE's sections for children, and the pediatric corpus notes.
 - **Work, school, and disability support** (US-specific).
 - **Saved but unused:** the housebound vs nonhousebound study, the pacing consensus document, NICE evidence review G, and the Bateman 2021 Mayo Clinic Proceedings paper (only its abstract could be saved; full text returned 403).
 - **Non-English sources:** the corpus's French paper on recognizing PEM in primary care (Garcia 2026) could be added with English translations.
 
-## 🔍 Review log
-Reviewer: a different model family (Gemini) from the writer (Claude); each page was checked claim by claim against the saved passages, fixed, and the changed claims re-checked in round 2.
-
-| Date | Page | Reviewer model | Rounds | Claims checked / supported first time / fixed / ⚠️ flagged | Clarity fixed |
-|---|---|---|---|---|---|
-| 2026-11-08 | What ME-CFS is | gemini-4-argon (omp `reviewer`) | 2 | 36 / 31 / 5 / 0 | 2 |
-| 2026-11-08 | Post-exertional malaise | gemini-4-argon (omp `reviewer`) | 2 | 46 / 35 / 11 / 0 | 4 |
-| 2026-11-08 | Diagnosis and getting care | gemini-4-argon (omp `reviewer`) | 2 | 46 / 39 / 7 / 0 | 2 |
-| 2026-11-08 | Reading the research | gemini-4-argon (omp `reviewer`) | 2 | 47 / 38 / 9 / 0 | 2 |
-| 2026-11-08 | Daily life and caring at home | gemini-4-argon (omp `reviewer`) | 2 | 62 / 60 / 2 / 0 | 3 |
-| 2026-11-08 | Glossary + FAQ | gemini-4-argon (omp `reviewer`) | 2 | 45 / 26 / 19 / 0 | 3 |
-
-### ⚠️ Flagged claims
-None. Every claim not supported in round 1 was narrowed, re-sourced, or rewritten, and re-checked in round 2.
+Start reading: [[📘ME-CFS - What ME-CFS is|What ME/CFS is]] →
