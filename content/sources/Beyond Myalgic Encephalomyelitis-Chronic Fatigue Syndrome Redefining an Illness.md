@@ -55,7 +55,10 @@ Fewer than one-third of medical school curricula and less than half of medical t
 
 - ME/CFS affects 836,000 to 2.5 million Americans. ^q3
 - An estimated 84 to 91 percent of people with ME/CFS have not yet been diagnosed, meaning the true prevalence of ME/CFS is unknown. ^q4
+- ME/CFS affects women more often than men. Most patients currently diagnosed with ME/CFS are Caucasian, but some studies suggest ME/CFS is more common in minority groups. ^q5
 - The average age of onset is 33, although ME/CFS has been reported in patients younger than age 10 and older than age 70. ^q6
+- At least one-quarter of ME/CFS patients are bed- or house-bound at some point in their illness. ^q7
+- ME/CFS patients experience loss of productivity and high medical costs that contribute to a total economic burden of $17 to $24 billion annually. ^q8
 - The cause of ME/CFS remains unknown, although symptoms may be triggered by certain infections, such as Epstein-Barr virus (EBV). ^q9
 - There are therapies available for the management of symptoms of ME/CFS, but their efficacy is not well understood. There is no existing cure for ME/CFS. ^q10
 

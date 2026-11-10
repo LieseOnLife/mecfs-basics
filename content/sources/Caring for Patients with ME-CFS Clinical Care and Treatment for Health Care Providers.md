@@ -62,15 +62,20 @@ Key points from the hub page: ME/CFS is a chronic, life-altering disease affecti
 ### Caring for Patients with ME/CFS
 
 - Myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS) is a chronic, life-altering disease affecting many organ systems. ^q1
+- It profoundly impacts patients' quality of life and abilities. ^q2
+- Clinicians can learn more about pediatric considerations, strategies for preventing worsening of symptoms, monitoring medicines and supplements, and clinical care for severely affected patients. ^q3
 
 ### Diagnosing ME/CFS
 
 There is no confirmatory test currently available to diagnose ME/CFS. However, people with ME/CFS often are found to have biological abnormalities. Yet none of these “biomarkers” have sufficient sensitivity and specificity to constitute a diagnostic test. Instead, healthcare providers need to diagnose ME/CFS based on a thorough medical history and physical exam, laboratory test results, and ruling out other fatiguing illnesses with a targeted work-up. ^q4
 
+An assessment begins when a patient presents with:
+
 - impaired function accompanied by fatigue ^q5
 - post-exertional malaise (PEM) ^q6
 - unrefreshing sleep ^q7
 - either one or both
+  * cognitive impairment or
   * orthostatic intolerance. ^q8
 
 A thorough medical history, physical (including neurological) and mental health exam, and laboratory testing should be performed. These steps are crucial to evaluate for other conditions that may explain symptoms. During the evaluation period, healthcare providers may also begin to consider ME/CFS and schedule periodic follow-up appointments. All symptoms should be addressed and managed and any identified comorbidities treated to improve quality of life. ^q9
@@ -108,6 +113,8 @@ While vigorous aerobic exercise can be beneficial for many chronic illnesses, pa
 ### Care for severely affected patients
 
 It's estimated up to 1 in 4 ME/CFS patients is home- or bed-bound at some time in their illness. ^q26
+
+Very severely affected ME/CFS patients experience profound weakness, almost constant pain and severe limitations to physical and mental activity. They may also have hypersensitivity to light, touch, sound, smell, medications and certain foods. ^q27
 
 These patients often cannot make office visits due to the severity of their symptoms. They require in-home assistance and management plans specifically adjusted to their needs by a coordinated care team of providers. Caregivers, who provide management and the majority of care for patients, often have substantial stress and may need additional support. ^q28
 

@@ -16,7 +16,7 @@ Cited in: [[Daily life and caring at home|Daily life and caring at home]]
 > **Used for:** Explaining energy management, breaking activities into manageable parts with rest, and the page's reported survey figures.
 
 ## Highlights
-- Defines pacing as balancing energy and rest within a person's “energy envelope” to help avoid aggravating symptoms and triggering PEM.
+- Defines pacing as balancing energy and rest within a person's “energy envelope” to help avoid aggravating symptoms and triggering PEM. [[#^q2|passage]]
 - Describes breaking physical or mental activities into manageable chunks and planning rest between them. [[#^q3|passage]]
 - Clarifies that the page presents pacing as a way of coping, not as a treatment. [[#^q4|passage]]
 - Gives the 2019 Big Survey context: more than 4,000 people with ME were asked about symptom-management approaches, including pacing. [[#^q5|passage]]
@@ -29,6 +29,8 @@ Cited in: [[Daily life and caring at home|Daily life and caring at home]]
 
 ### What is pacing?
 
+Pacing is a self-management technique, commonly used by people living with ME, that aims to balance energy and rest. It focuses on keeping activity levels within your “energy envelope” to help avoid aggravating symptoms and triggering post-exertional malaise (PEM). ^q2
+
 This can be done by breaking down activities (mental or physical) into small, manageable chunks, and planning in periods of rest in between. Understanding and accepting what your current abilities are helps you to plan ahead with more confidence. ^q3
 
 Pacing should not be seen as a treatment, but more as a way of coping with the impact of ME. ^q4
@@ -36,6 +38,8 @@ Pacing should not be seen as a treatment, but more as a way of coping with the i
 ### Should I try pacing?
 
 Our 2019 Big Survey of more than 4,000 people with ME asked them questions about a number of symptom management approaches, including pacing. ^q5
+
+It found that:
 
 - most respondents (88%) had tried pacing in the past five years ^q6
 - of these, 70% said they use pacing to do what they feel able to within their manageable limit. ^q7

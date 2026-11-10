@@ -94,6 +94,9 @@ People with very severe ME/CFS are in bed all day and dependent on care. They ne
 
 ###### 1.2.3
 
+- a medical assessment (including symptoms and history, comorbidities, overall physical and mental health) ^q26
+- a physical examination ^q27
+- an assessment of the impact of symptoms on psychological and social wellbeing ^q28
 - investigations to exclude other diagnoses, for example (but not limited to): ^q29
   - full blood count ^q30
   - thyroid function ^q31
@@ -145,6 +148,7 @@ Recognise that the person with ME/CFS is in charge of the aims of their care and
 ###### 1.8.2
 
 - do not discharge them for not attending because it could be due to their symptoms worsening ^q58
+- discuss why they could not attend and how the multidisciplinary team can support them. ^q59
 
 ###### 1.8.5
 
@@ -169,7 +173,9 @@ Give adults, children and young people with ME/CFS and their family or carers (a
 
 - is not curative ^q69
 - is a self-management strategy led by the person themselves with support from a healthcare professional in an ME/CFS specialist team ^q70
+- includes all types of activity (cognitive, physical, emotional and social) and takes into account overall level of activity ^q71
 - helps people learn to use the amount of energy they have while reducing their risk of post-exertional malaise or worsening their symptoms by exceeding their limits ^q72
+- recognises that each person has a different and fluctuating energy limit and they are experts in judging their own limits ^q73
 - uses a flexible, tailored approach so that activity is never automatically increased but is maintained or adjusted (upwards after a period of stability or downwards when symptoms are worse) ^q74
 - is a long-term approach − it can take weeks, months or sometimes even years to reach stabilisation or to increase tolerance or activity. ^q75
 
@@ -179,7 +185,7 @@ Give adults, children and young people with ME/CFS and their family or carers (a
 - plan periods of rest and activity, and incorporate the need for pre-emptive rest ^q77
 - alternate and vary between different types of activity and break activities into small chunks. ^q78
 
-###### 1.11.5 and 1.11.7
+###### 1.11.7
 
 Make self-monitoring of activity as easy as possible by taking advantage of any tools the person already uses, such as an activity tracker, phone heart-rate monitor or diary. ^q80
 
@@ -187,6 +193,8 @@ Make self-monitoring of activity as easy as possible by taking advantage of any 
 
 Do not offer people with ME/CFS: ^q122
 
+- any therapy based on physical activity or exercise as a cure for ME/CFS ^q84
+- generalised physical activity or exercise programmes – this includes programmes developed for healthy people or people with other illnesses ^q85
 - any programme that does not follow the approach in recommendation 1.11.13 or that uses fixed incremental increases in physical activity or exercise, for example, graded exercise therapy ^q86
 - physical activity or exercise programmes that are based on deconditioning and exercise avoidance theories as perpetuating ME/CFS. ^q87
 
@@ -219,6 +227,11 @@ Offer adults with ME/CFS a review of their care and support plan in primary care
 ###### 1.17.2
 
 - need a low-stimulus environment, for example a dark quiet room with interaction at a level of their choice (this may be little or no social interaction) ^q99
+- are housebound or bedbound and may need support with all activities of daily living, including aids and adaptations to assist mobility and independence in activities of daily living (for example, a wheelchair) ^q100
+- need careful physical contact when supported with activities of daily living, taking into account possible sensitivity to touch ^q101
+- cannot communicate without support and may need to choose someone to be their advocate and communicate for them ^q102
+- are unable to eat and digest food easily and may need support with hydration and nutrition ^q103
+- have problems accessing information, for example because of difficulty with screens, sound and light sensitivity, headaches affecting their ability to read, or brain fog affecting their concentration. ^q104
 
 ###### 1.17.5
 
@@ -227,10 +240,13 @@ Offer home visits to people with severe or very severe ME/CFS to carry out their
 ###### 1.17.7
 
 - aim to minimise discomfort and post-exertional malaise during transfer to hospital, for example by planning the route in advance, avoiding noisy areas and admitting them straight to the ward on arrival ^q110
+- discuss the person's care and support plan with them, including information on comorbidities, intolerances and sensitivities, to plan any reasonable adjustments that are needed ^q111
 - aim to provide a single room if possible ^q112
 - keep stimuli to a minimum, for example by seeing them one-to-one, using calm movements and gestures, not duplicating assessments, being cautious about the pressure of touch, keeping lights dimmed, reducing sound, keeping a stable temperature and minimising smells. ^q113
 
-###### 1.17.10 and 1.17.12
+###### 1.17.12
+
+Give advice to support people with severe or very severe ME/CFS, which could include:
 
 - eating little and often ^q117
 - having nourishing drinks and snacks, including food fortification ^q118

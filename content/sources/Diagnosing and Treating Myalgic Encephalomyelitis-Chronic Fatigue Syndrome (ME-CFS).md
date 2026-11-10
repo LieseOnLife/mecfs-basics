@@ -66,6 +66,9 @@ No abstract. The handout describes itself as basic information on recognizing th
 
 The onset of ME/CFS is often sudden. Frequently, patients report that an infectious-like syndrome or infectious disease (such as infectious mononucleosis or flu-like illness) preceded the onset of their disease. ^q1
 
+- Substantial reduction or impairment in the ability to engage in pre-illness activity that persists for 6 months or more and is accompanied by fatigue. The fatigue is profound, not lifelong, not the result of ongoing exertion, and not alleviated by rest. ^q3
+- Post-exertional malaise (PEM) in which physical or mental activities result in a typically delayed and prolonged exacerbation of symptoms and reduction in functioning (discussed further below). ^q4
+- Unrefreshing sleep and a variety of sleep disturbances ^q5
 - Either cognitive impairment (often referred to as “brain fog” by patients) and/or orthostatic intolerance (the development of symptoms when upright that are alleviated when lying down) ^q6
 
 These core features of illness must be moderate to severe and present at least 50% of the time; this is key to separating ME/CFS from other common causes of chronic fatigue. PEM is the clinical hallmark of ME/CFS and its most distinctive symptom. ^q7

@@ -66,5 +66,6 @@ An online survey was opened for 4 months and advertised nationally to anyone wit
 302 patients (32%) reported a worsening of their symptoms post-therapy, 455 (49%) reported that they stayed the same and 176 (19%) improved. When considering the main course content (ignoring other elements), Pacing Therapy (PT) brought about a greatest improvement rate in symptoms (44%) versus just 8% in CBT and 12% in GET. GET recorded the largest negative response (74% of patients) versus 18% in CBT and 14% in PT. ^q3
 
 ### Secondary surveys and caveat
+Our search revealed more than 15 relevant surveys. We excluded 5 due to lack of clarity regarding treatment approach, leaving 10 included comparable surveys. CBT brings about improvement in symptoms for approximately 35% of respondents (65% unchanged/worse). 25% of GET reported improvement in symptoms (17% unchanged/54% worse), while 82% report benefit following PT with only 4% deterioration. ^q5
 
 Much more detailed empirical research is needed to qualify these findings. ^q6

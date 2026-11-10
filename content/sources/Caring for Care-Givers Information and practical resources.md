@@ -37,6 +37,8 @@ When you become an unpaid carer, it can be helpful to register as such with your
 
 A carer’s assessment assesses the impact caring has on the unpaid carer. A carer’s assessment looks at the care you provide, its impact on you and all aspects of your life including physical, emotional, work and relationships and looks at ways you can be supported. It also looks at the things you would like to be able to do in your day-to-day life. ^q3
 
+Carers can be offered a range of services including:
+
 - A home care worker to sit with the person with severe and very severe ME/CFS to enable you to go out. It is worth asking for this to be flexibly diarised. This can be either arranged and paid for by the local authority or via direct payments. Note the money you receive to buy care in may not cover as much care as a set number of hours funded directly by social services. ^q4
 - Carer respite where a person goes into a care home or carers come to look after the person with ME to give the unpaid carer a longer break. ^q5
 

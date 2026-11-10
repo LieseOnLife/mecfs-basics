@@ -59,15 +59,15 @@ Start reading: [[What ME-CFS is|What ME/CFS is]] →
 | [[Delayed crash after a tiring trip\|Crashing - super delayed ? Is that legit?]] | 🗣️ | Post-exertional malaise |
 | [[Partner care during a rapid decline to very severe ME\|My partner is really sick and I don't know what else to do to help]] | 🗣️ | Daily life and caring at home |
 | [[Strict pacing stabilizes a moderate ME-CFS baseline\|Deteriorated from mild to moderate this year. Strict pacing has stabilised my baseline, but stuck at a plateau. what were your earliest signs that you were actually starting to improve?]] | 🗣️ | Daily life and caring at home |
-| [[Very severe ME - bedbound and dependent on father\|️Very severe ME: bedbound and dependent on father]] | 🗣️ | Daily life and caring at home |
+| [[Very severe ME - bedbound and dependent on father\|I can’t with my father burnout]] | 🗣️ | Daily life and caring at home |
 
 ## 🚧 Not covered yet
-- **Support outside the UK:** the carer support section leans on UK charities (carer's assessment, GP registration, respite); other countries' equivalents aren't covered.
-- **How ME/CFS works in the body:** immune, autonomic, and energy-metabolism findings.
+- **Carer support outside the UK:** the carer support section leans on UK charities (carer's assessment, GP registration, respite); other countries' equivalents aren't covered.
+- **How ME/CFS works in the body:** neurological, immune, autonomic, and energy-metabolism mechanisms in depth.
 - **Orthostatic intolerance and POTS:** testing and what helps, in depth.
 - **More on severe and very severe ME/CFS:** nutrition, hygiene, and home visits.
 - **Long COVID** and how it overlaps with ME/CFS.
 - **Children and young people.**
-- **Work, school, and disability support.**
+- **Work, school, and disability support** in depth, such as country-specific processes.
 
 Start reading: [[What ME-CFS is|What ME/CFS is]] →

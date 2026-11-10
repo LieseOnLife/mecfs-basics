@@ -71,6 +71,8 @@ In professional care settings, “visible or complete cleanliness” is often im
 
 #### Family members and primary caregivers as an important resource
 
+At the same time, family members and primary caregivers need guidance, professional feedback, and emotional support. Family members caring for people with severe ME/CFS often assume responsibilities that extend well beyond traditional caregiving duties. They coordinate medical appointments; document medications and symptoms; organize daily life; and represent the patient’s interests within the healthcare, social, and educational systems. They also provide continuous emotional support while witnessing the progression of the illness and its unpredictable, severe symptoms.
+
 Against this backdrop, professional care plays a central role. Rather than providing direct nursing care, it involves coordination, organization, and advisory tasks. Experienced nursing staff should guide, evaluate, and—where necessary—adjust and re-instruct the care routines. Equally important is the proactive identification of potential signs of caregiver burnout as well as—where possible—the provision of appropriate respite care, counseling, and support. This protects not only the caregivers but also ensures the stability and continuity of the overall care situation. ^q16
 
 #### 5.3 Care planning and emergency measures

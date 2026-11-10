@@ -24,7 +24,7 @@ Cited in: [[Post-exertional malaise|Post-exertional malaise]] · [[Daily life an
 - Describes reducing light, noise, touch, smell, and other sensory stimuli during a crash. [[#^q6|passage]]
 - Notes that the person may be unable or unwilling to talk and says communication cards or devices should be used only as necessary. [[#^q7|passage]] [[#^q8|passage]]
 - States that the caregiver's goal is to encourage rest, reduce movement, and conserve the person's energy. [[#^q9|passage]]
-- Includes a reassuring reminder for caregivers after the patient is safe.
+- Includes a reassuring reminder for caregivers after the patient is safe. [[#^q10|passage]]
 - Says to seek professional medical assessment when the person or caregiver is concerned about the person's condition. [[#^q11|passage]]
 
 ## Quoted passages
@@ -50,6 +50,8 @@ Once in a crash, the individual must allow their body to recover before resuming
 - If the patient is unable to talk, use communication cards or devices only as necessary. ^q8
 
 6. Your #1 goal is to encourage rest, reduce movement, and help the patient conserve energy. ^q9
+
+11. When the patient is safe, calm and relaxed, take a deep breath. Know that you’re doing the best you can. ^q10
 
 #### When you suspect an emergency
 
