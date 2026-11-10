@@ -4,32 +4,30 @@ link: "https://meassociation.org.uk/wp-content/uploads/2026/05/Caring-for-Carers
 published: "2026-05"
 created: 2026-11-08 12:59:21
 ---
+*By The ME Association and 25% ME Group, 2026.*
+
+Cited in: [[Daily life and caring at home|Daily life and caring at home]] · [[Glossary|📖 Glossary]]
 
 > [!info] About this source
 > **What:** The ME Association and 25% ME Group's May 2026 booklet, “Caring for Care-Givers: Information and practical resources,” focused on support for unpaid carers, particularly of people with severe or very severe ME/CFS.
 > **Who:** The two ME charities say they produced the booklet to address a resource gap and drew on 2024 focus groups with unpaid carers about healthcare, social care, and caring.
 > **Strength:** It combines practical descriptions of carer assessments, respite, wellbeing, equipment, support networks, and forward planning with input from carers of people with severe ME/CFS.
-> **Limits:** It is not a clinical evidence review, the booklet does not report the focus-group sample size in the saved sections, and its benefits, GP, and local-authority information is specific to the UK and can change.
+> **Limits:** It is not a clinical evidence review, the sections quoted here don't report the focus-group sample size, and its benefits, GP, and local-authority information is specific to the UK and can change.
 > **Used for:** Carer recognition, discussing support needs with a GP or local authority, respite and home-care cover, caregiver wellbeing, and planning continuity of care.
 
 ## Highlights
-- Says the booklet aims to address a lack of resources for carers, particularly carers of people with severe or very severe ME/CFS. [[#^q1]]
-- Says registering with a GP practice can make the practice aware of a carer's situation. [[#^q2]]
-- Describes a carer's assessment as addressing impacts on physical and emotional health, work, relationships, support needs, and daily-life goals. [[#^q3]]
-- Gives an example of arranging flexible home-care cover so a carer can go out. [[#^q4]]
-- Describes respite options for a carer of someone with severe or very severe ME/CFS. [[#^q5]]
-- Describes self-care and the effect of caring demands on carers' physical and mental health. [[#^q6]]
-- Notes that an occupational therapist may assess home aids or adaptations and that moving-and-handling courses may be available. [[#^q7]]
-- Describes peer contact as a way carers can feel less alone and share tips. [[#^q8]]
-- Reports that carers in the focus group found counselling more beneficial when the counsellor understood ME/CFS. [[#^q9]]
-- Describes forward planning that can include training home-care workers to support the person with severe or very severe ME/CFS. [[#^q10]]
+- Says the booklet aims to address a lack of resources for carers, particularly carers of people with severe or very severe ME/CFS.
+- Says registering with a GP practice can make the practice aware of a carer's situation. [[#^q2|passage]]
+- Describes a carer's assessment as addressing impacts on physical and emotional health, work, relationships, support needs, and daily-life goals. [[#^q3|passage]]
+- Gives an example of arranging flexible home-care cover so a carer can go out. [[#^q4|passage]]
+- Describes respite options for a carer of someone with severe or very severe ME/CFS. [[#^q5|passage]]
+- Describes self-care and the effect of caring demands on carers' physical and mental health. [[#^q6|passage]]
+- Notes that an occupational therapist may assess home aids or adaptations and that moving-and-handling courses may be available. [[#^q7|passage]]
+- Describes peer contact as a way carers can feel less alone and share tips. [[#^q8|passage]]
+- Reports that carers in the focus group found counselling more beneficial when the counsellor understood ME/CFS. [[#^q9|passage]]
+- Describes forward planning that can include training home-care workers to support the person with severe or very severe ME/CFS.
 
-## Article
-
-
-### Introduction
-
-This booklet has been produced to address the lack of resources available for carers of people with severe ME/CFS. It aims to put the information carers, particularly of people with severe and very severe ME/CFS, need in one comprehensive resource. ^q1
+## Quoted passages
 
 ### Registering as a carer with your GP practice
 
@@ -54,6 +52,3 @@ At 25% ME Group, carers of people with severe or very severe ME/CFS can add thei
 
 Some of the carers in our focus group had received counselling; either on their own or with their family/the person whom they care for. This was often to deal with situations that had occurred in the past relating to the person with severe ME/CFS. The carers felt counselling was more beneficial when the counsellor understood ME/CFS. ^q9
 
-### Forward planning
-
-A number of older carers, including those in our focus group, are worried about what would happen to the person they care for when they are no longer able to do so. Some people have found a benefit in integrating care support from the local authority which has enabled them to train home-care workers to provide appropriate support for the person with severe or very severe ME/CFS when needed. ^q10

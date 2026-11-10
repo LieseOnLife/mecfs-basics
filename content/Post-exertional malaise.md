@@ -5,7 +5,6 @@ updated: 2026-11-08
 ---
 ← Previous: [[What ME-CFS is|What ME/CFS is]] · [[index|🏠 Home]] · Next: [[Daily life and caring at home|Daily life and caring at home]] →
 
-
 >[!warning] Evidence log, not medical advice
 >This page explains what research found and what people report. It doesn't recommend treatments. Talk through any change with a clinician who knows ME/CFS.
 

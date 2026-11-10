@@ -3,6 +3,9 @@ title: "Crashing - super delayed ? Is that legit?"
 link: "https://www.reddit.com/r/cfs/comments/1sz15uq/crashing_super_delayed_is_that_legit/"
 published: 2026-04-29
 ---
+*By a member of r/cfs, 2026.*
+
+Cited in: [[Post-exertional malaise|Post-exertional malaise]]
 
 ## Their account (paraphrased)
 
@@ -20,6 +23,6 @@ The poster links the episode to exertion over a multi-day trip and describes sym
 
 ## Quotes
 
-> **OP:** “I went on a tiring trip Fri-Sun and thought I was fine on Mon (which I celebrated)” ^q4
+> **The poster:** “I went on a tiring trip Fri-Sun and thought I was fine on Mon (which I celebrated)” ^q4
 
-> **OP:** “by Tues night I started with horrible symptoms… GI issues, extreme fatigue, brain fog, body aches, and so on…” ^q5
+> **The poster:** “by Tues night I started with horrible symptoms… GI issues, extreme fatigue, brain fog, body aches, and so on…” ^q5

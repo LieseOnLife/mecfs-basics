@@ -4,11 +4,15 @@ link: https://doi.org/10.1186/s40359-018-0218-3
 doi: 10.1186/s40359-018-0218-3
 published: 2018-03-22
 ---
+*By Carolyn E Wilshire, 2018.*
+
+Cited in: [[Reading the research|Reading the research]] · [[FAQ|❓ FAQ]]
+
 ## Summary
 This paper reanalyses individual participant data from the PACE trial ([[PACE trial of adaptive pacing, CBT, graded exercise and specialist medical care for CFS|Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy, and specialist medical care for chronic fatigue syndrome (PACE): a randomised trial]]). The data were released under a UK Freedom of Information (FOI) request. The authors apply the primary outcome ("overall improvement") and the recovery definition set out in the 2007 published protocol, rather than the revised definitions used in the 2011 and 2013 trial reports. On the protocol measures, the CBT and GET groups improved numerically more often than the control (specialist medical care) group. After correcting for the number of planned comparisons, those differences mostly fell short of significance. Recovery rates were low and did not differ between arms. The authors conclude that PACE's modest self-reported effects could be explained by reporting bias in an unblinded trial.
 
 ## Methods
-- **Design:** secondary reanalysis of a randomised trial's data, not a new trial. The tier is `rct` because the comparisons are still randomised arms of PACE.
+- **Design:** secondary reanalysis of a randomised trial's data, not a new trial; the comparisons are still randomised arms of PACE.
 - **Data:** the FOI dataset released by Queen Mary University of London. Some stratification variables were not in the dataset, so the analyses do not adjust for them. Missing 52-week Chalder scores could be inferred from other variables in the dataset.
 - **Cohort:** the PACE cohort of 641 adults with mild-to-moderate CFS by the Oxford criteria, which do not require PEM. The reanalysis focuses on the CBT, GET, and control arms. Adaptive pacing therapy is included in the omnibus tests but not discussed further, because it did not differ from control on any outcome considered.
 - **Protocol definitions ("Definition A"):**
@@ -40,12 +44,12 @@ This paper reanalyses individual participant data from the PACE trial ([[PACE tr
 
 **Authors' conclusion:** the effects were modest, almost entirely limited to self-report measures, and did not last beyond two years. The authors say this raises "serious concerns about the robustness" of the claims for CBT and GET.
 
-## Limitations / flags
-- **Cohort:** the underlying cohort is Oxford-defined (`no-pem-criterion`).
-- **Lineage flag:** the paper analyses PACE trial data, which is why it carries `pace-lineage`. The flag marks the data lineage; the paper itself is a critique of PACE's conclusions.
+## Limitations
+- **Cohort:** the underlying cohort is Oxford-defined, which doesn't require PEM.
+- **Data source:** the paper analyses PACE trial data, but it is itself a critique of PACE's conclusions.
 - **Reconstruction limits:** the reanalysis approximates the protocol procedures from the FOI dataset, without some stratification variables. The long-term analysis is informal and uses published summary data.
 - **Opposing view:** the PACE investigators have defended the outcome changes as approved before outcome data were examined. The paper cites their responses.
-- **Authors' affiliations:** several authors have ties to patient organisations, and the open-access fee was partly paid by a patient charity. The authors declare no competing interests, so no `conflict-of-interest` flag is applied; the ties are recorded here for transparency.
+- **Authors' affiliations:** several authors have ties to patient organisations, and the open-access fee was partly paid by a patient charity. The authors declare no competing interests.
 - **Corrections:** no retraction or correction is listed in Crossref or PubMed as of 2026-11-06.
 
 ## Abstract
@@ -57,7 +61,7 @@ RESULTS: On the original protocol-specified primary outcome measure - overall im
 
 CONCLUSIONS: These findings raise serious concerns about the robustness of the claims made about the efficacy of CBT and GET. The modest treatment effects obtained on self-report measures in the PACE trial do not exceed what could be reasonably accounted for by participant reporting biases. ^q3
 
-## Full text
+## Quoted passages
 ![[wilshire-pace-reanalysis.pdf]]
 
 ### Methods
@@ -69,8 +73,6 @@ The trial protocol lists six planned comparisons. The statistical analysis plan,
 Based on the protocol-specified definition of improvement, 20% of CBT patients and 21% of GET patients improved, and 10% of the Control patients. There was a statistically significant effect of treatment on improvement rates, χ2(3) = 14.24, *p* = .003. The *p*-value associated with the contrast between CBT and Control was *p* = .015 and that for the contrast between GET and Control was *p* = .010. If we take into account all six planned comparisons listed in the protocol, the Bonferroni-adjusted *p* threshold for both pairwise comparisons is 0.008. Neither comparison reaches this threshold. ^q6
 
 Using the protocol-specified definition of recovery, and applying an intention-to-treat approach, the rates of recovery were 7%, 4% and 3% for the CBT, GET and Control groups respectively. Applying an available-case approach, these rates were 8%, 5%, and 3% respectively. In neither instance was there a statistically significant effect of treatment on recovery rates (*p* values were 0.14 and 0.10, respectively, for the intent-to-treat and available case approaches). ^q7
-
-The trial protocol specified that various stratification variables would also be included in the primary outcome analysis (e.g., treatment centre, therapist, presence/absence of co-morbid depression). These variables were not available in the FOIA dataset, so we were unable to include them. Nonetheless, they were approximately evenly distributed across groups, and therefore their inclusion would be unlikely to change outcomes substantially. ^q8
 
 ### Long-term outcomes
 The pattern of results presented here mirrors that obtained for the entire cohort: the small group differences apparent on these measures at 52 weeks are no longer evident at long-term follow-up. A one-way analysis of variance revealed that there were no statistically reliable effects of treatment group on either outcome measure (Physical function: F(3,291) = 0.70, *ns*; Fatigue F(3,291) = 0.17, *ns*). ^q9

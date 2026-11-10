@@ -4,16 +4,19 @@ link: https://doi.org/10.17226/19012
 doi: 10.17226/19012
 published: 2015-02-10
 ---
+*By Institute of Medicine, 2015.*
+
+Cited in: [[What ME-CFS is|What ME/CFS is]] · [[Post-exertional malaise|Post-exertional malaise]] · [[Diagnosis and getting care|Diagnosis and getting care]] · [[Reading the research|Reading the research]] · [[FAQ|❓ FAQ]] · [[Glossary|📖 Glossary]]
+
 ## Summary
 This National Academies Press report from the Institute of Medicine (IOM; now the National Academy of Medicine) proposes the diagnostic criteria for ME/CFS now cited as the IOM or NAM 2015 criteria. It also proposes renaming the illness systemic exertion intolerance disease (SEID). The committee calls ME/CFS a serious, chronic, complex, systemic disease. It concludes that a history, a physical examination, and a targeted work-up are necessary and often sufficient for diagnosis.
 
-**This is a case definition, not a cohort.** `case_definition: [IOM]` refers to the definition this report creates. `pem_required: true` because the criteria make post-exertional malaise a required symptom.
+**This is a case definition, not a cohort.** The report creates the IOM criteria, which make post-exertional malaise a required symptom.
 
 ## Methods
 - Six HHS agencies sponsored the study: the Office on Women's Health, NIH, CDC, FDA, AHRQ, and the Social Security Administration. The committee was asked to develop diagnostic criteria. It was not asked to study cause, mechanisms, or treatment.
 - The 15-member committee covered ME/CFS clinical care, pediatrics, infectious disease, immunology, sleep, exercise physiology, neurology, case definitions, and consensus methods. Two members are or had been patients, and one is a family caregiver.
 - The committee searched eight databases for literature from 1950 on, reviewed public comments and testimony from patients, advocates, and invited experts, and graded symptom evidence in topic groups with an adapted GRADE grid.
-- There is no patient sample, so `n` is blank.
 - PubMed Bookshelf: [NBK274235](https://www.ncbi.nlm.nih.gov/books/NBK274235/), PMID 25695122.
 
 ## Findings
@@ -32,8 +35,8 @@ This National Academies Press report from the Institute of Medicine (IOM; now th
 - The report cites prevalence estimates of 836,000 to 2.5 million Americans and estimates that 84–91% of people with ME/CFS were undiagnosed.
 - The committee did not build a full list of comorbidities. It points readers to the conditions listed in the ICC and the CCC.
 
-## Limitations / flags
-- This is a consensus report and makes no treatment comparisons, so `treatments` is empty.
+## Limitations
+- This is a consensus report; it makes no treatment comparisons.
 - The proposed SEID name was not widely adopted; later guidance, including CDC, kept the name ME/CFS.
 - The report says its criteria select patients for clinical diagnosis. Some people previously diagnosed under broader definitions may not meet them.
 - Patients, advocates, and some researchers opposed the study before it began. An open letter from 38 clinicians and researchers asked HHS to adopt the Canadian Consensus Criteria and cancel the study.
@@ -42,10 +45,7 @@ This National Academies Press report from the Institute of Medicine (IOM; now th
 ## Abstract
 Myalgic encephalomyelitis (ME) and chronic fatigue syndrome (CFS) are serious, debilitating conditions that affect millions of people in the United States and around the world. ME/CFS can cause significant impairment and disability. Despite substantial efforts by researchers to better understand ME/CFS, there is no known cause or effective treatment. Diagnosing the disease remains a challenge, and patients often struggle with their illness for years before an identification is made. Some health care providers have been skeptical about the serious physiological — rather than psychological — nature of the illness. Once diagnosed, patients often complain of receiving hostility from their health care provider as well as being subjected to treatment strategies that exacerbate their symptoms. Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome proposes new diagnostic clinical criteria for ME/CFS and a new term for the illness — systemic exertion intolerance disease (SEID). According to this report, the term myalgic encephalomyelitis does not accurately describe this illness, and the term chronic fatigue syndrome can result in trivialization and stigmatization for patients afflicted with this illness. Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome stresses that SEID is a medical — not a psychiatric or psychological — illness. This report lists the major symptoms of SEID and recommends a diagnostic process. One of the report's most important conclusions is that a thorough history, physical examination, and targeted work-up are necessary and often sufficient for diagnosis. The new criteria will allow a large percentage of undiagnosed patients to receive an accurate diagnosis and appropriate care. Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome will be a valuable resource to promote the prompt diagnosis of patients with this complex, multisystem, and often devastating disorder; enhance public understanding; and provide a firm foundation for future improvements in diagnosis and treatment.
 
-## Full text
-
-
-Source: Institute of Medicine, *Report Guide for Clinicians* (2015), derived from [Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness](https://doi.org/10.17226/19012), pp. 5–16.
+## Quoted passages
 
 ### Key findings and prevalence
 
@@ -86,8 +86,6 @@ A thorough history, physical examination, and targeted workup are necessary to d
 It is essential that clinicians assess the severity and duration of symptoms over the past month or more. Chronic, frequent, and moderate or severe symptoms are required to distinguish ME/CFS (SEID) from other illnesses. ^q20
 
 The proposed criteria require symptom duration for 6 months to make a diagnosis in light of evidence that most other causes of similar fatigue do not last beyond 6 months. ^q21
-
-Patients who do not meet the criteria for ME/CFS (SEID) should continue to be diagnosed by other criteria as their symptoms and evaluations dictate. These patients should also receive appropriate care. ^q22
 
 Comorbidities such as fibromyalgia and irritable bowel syndrome are common in ME/CFS (SEID) patients. These comorbidities should be diagnosed and treated when caring for patients. The presence of other illnesses should not preclude patients from receiving a diagnosis of ME/CFS (SEID) except in the unlikely event that all symptoms can be accounted for by these other illnesses. ^q23
 

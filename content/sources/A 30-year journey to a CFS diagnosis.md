@@ -3,6 +3,9 @@ title: "Storytime! My weird journey to a CFS diagnosis"
 link: "https://www.reddit.com/r/cfs/comments/1eoniyk/storytime_my_weird_journey_to_a_cfs_diagnosis/"
 published: 2024-08-10
 ---
+*By a member of r/cfs, 2024.*
+
+Cited in: [[Diagnosis and getting care|Diagnosis and getting care]] · [[Reading the research|Reading the research]]
 
 ## Their account (paraphrased)
 
@@ -20,8 +23,8 @@ The writer reports trainer-designed programs followed by crashes within days and
 
 ## Quotes
 
-> **OP:** “In person appointment, doctor doesn‘t have time - she‘ll call me - she didn‘t.” ^q5
+> **The poster:** “In person appointment, doctor doesn‘t have time - she‘ll call me - she didn‘t.” ^q5
 
-> **OP:** “Each time they crafted a program for me, it made me crash BIG TIME within days.” ^q6
+> **The poster:** “Each time they crafted a program for me, it made me crash BIG TIME within days.” ^q6
 
-> **OP:** “Pacing! Oh my god - if I had known about CFS and really researched it more seriously” ^q7
+> **The poster:** “Pacing! Oh my god - if I had known about CFS and really researched it more seriously” ^q7

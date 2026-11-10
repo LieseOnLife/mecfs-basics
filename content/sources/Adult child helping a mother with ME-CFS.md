@@ -3,6 +3,9 @@ title: "My Mom Is Sick."
 link: "https://www.reddit.com/r/cfs/comments/18jf0u4/my_mom_is_sick/"
 published: 2023-12-16
 ---
+*By a member of r/cfs, 2023.*
+
+Cited in: [[What ME-CFS is|What ME/CFS is]]
 
 ## Their account (paraphrased)
 
@@ -20,6 +23,6 @@ The child describes guilt about moving and studying, helplessness as their mothe
 
 ## Quotes
 
-> **OP:** “I help her with groceries and at times cooking and cleaning.” ^q5
+> **The poster:** “I help her with groceries and at times cooking and cleaning.” ^q5
 
-> **OP:** “When i moved, i felt guilty for leaving her behind and still do.” ^q6
+> **The poster:** “When i moved, i felt guilty for leaving her behind and still do.” ^q6

@@ -4,13 +4,11 @@ created: 2026-11-08
 ---
 Start reading: [[What ME-CFS is|What ME/CFS is]] →
 
-
 >[!warning] Evidence log, not medical advice
 >These pages explain what research found and what people report. They don't recommend treatments. Talk through any change with a clinician who knows ME/CFS.
 
 > [!tip] Start here
-> Reference pages on ME/CFS for someone caring for a loved one at home: what it is, its hallmark symptom (PEM), how diagnosis and care work, how to read the research, and daily life and caring. Every claim has a footnote that explains its source and links the exact passage saved in this vault. New to the topic? Follow the reading path. Have a question? Check the [[FAQ|FAQ]], or run `/learn ask ME-CFS <question>`.
-> Links to Home, How to Use, and the `💊` treatment notes open the **research** vault, where the graded ME/CFS research corpus lives; the sources cited here are copied into this vault's `Sources/`.
+> Reference pages on ME/CFS for someone caring for a loved one at home: what it is, its hallmark symptom (PEM), how diagnosis and care work, how to read the research, and daily life and caring. Every claim has a footnote that explains its source and links the exact passage it relies on. New to the topic? Follow the reading path. Have a question? Check the [[FAQ|FAQ]].
 
 ## 🗺️ Pages
 | Area       | Page                                         | Answers                                                               |
@@ -30,50 +28,46 @@ Start reading: [[What ME-CFS is|What ME/CFS is]] →
 
 📖 [[Glossary|Glossary]] · ❓ [[FAQ|FAQ]]
 
-💊 Treatments discussed here: 💊Pacing · 💊Graded exercise therapy · 💊Cognitive behavioral therapy
-
 ## 📚 Sources
-27 sources, each saved in `Sources/` with the cited passages marked. 🔬 research and guidelines (graded corpus notes), 📜 carer guides and expert statements, 🗣️ first-person accounts (paraphrased; no usernames).
+27 sources, each with its own page showing the passages cited here. 🔬 research and guidelines, 📜 carer guides and expert statements, 🗣️ first-person accounts (paraphrased; no usernames).
 
 | Source | Kind | Used on |
 |---|---|---|
-| [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness\|Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining a]] | 🔬 | Diagnosis and getting care, Post-exertional malaise, Reading the research, What ME-CFS is |
-| [[Cardiopulmonary and metabolic responses during a 2-day CPET in ME-CFS\|Cardiopulmonary and metabolic responses during a 2-day CPET in ME-CFS]] | 🔬 | Post-exertional malaise, Reading the research |
-| [[Cardiopulmonary exercise test methodology for assessing exertion intolerance in ME-CFS\|Cardiopulmonary exercise test methodology for assessing exertion intol]] | 🔬 | Post-exertional malaise |
-| [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers\|Caring for Patients with ME-CFS Clinical Care and Treatment for Health]] | 🔬 | Daily life and caring at home, Diagnosis and getting care, Post-exertional malaise, Reading the research, What ME-CFS is |
-| [[Deep phenotyping of post-infectious ME-CFS\|Deep phenotyping of post-infectious ME-CFS]] | 🔬 | Reading the research |
-| [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)\|Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Synd]] | 🔬 | Daily life and caring at home, Diagnosis and getting care, Post-exertional malaise, What ME-CFS is |
-| [[Exercise therapy for chronic fatigue syndrome Cochrane review\|Exercise therapy for chronic fatigue syndrome Cochrane review]] | 🔬 | Reading the research |
-| [[Graded exercise therapy for ME-CFS is not effective and unsafe - re-analysis of a Cochrane review\|Graded exercise therapy for ME-CFS is not effective and unsafe - re-an]] | 🔬 | Post-exertional malaise, Reading the research |
-| [[ME-CFS patients' reports of symptom changes following CBT, GET and pacing\|ME-CFS patients' reports of symptom changes following CBT, GET and pac]] | 🔬 | Reading the research |
-| [[Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Clinical Working Case Definition, Diagnostic and Treatment Protocols\|Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Clinical Working Ca]] | 🔬 | Reading the research |
-| [[Myalgic Encephalomyelitis-Chronic Fatigue Syndrome in Adults United States, 2021–2022\|Myalgic Encephalomyelitis-Chronic Fatigue Syndrome in Adults United St]] | 🔬 | Reading the research |
-| [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206\|Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome]] | 🔬 | Daily life and caring at home, Diagnosis and getting care, Post-exertional malaise, Reading the research, What ME-CFS is |
-| [[Myalgic encephalomyelitis International Consensus Criteria\|Myalgic encephalomyelitis International Consensus Criteria]] | 🔬 | Reading the research |
-| [[PACE trial of adaptive pacing, CBT, graded exercise and specialist medical care for CFS\|PACE trial of adaptive pacing, CBT, graded exercise and specialist med]] | 🔬 | Reading the research |
-| [[Rethinking the treatment of CFS - a reanalysis of the PACE trial\|Rethinking the treatment of CFS - a reanalysis of the PACE trial]] | 🔬 | Reading the research |
-| [[The Prospects of the Two-Day CPET in ME-CFS Patients - A Meta-Analysis\|The Prospects of the Two-Day CPET in ME-CFS Patients - A Meta-Analysis]] | 🔬 | Post-exertional malaise |
-| [[Caring for Care-Givers Information and practical resources\|Caring for Care-Givers Information and practical resources]] | 📜 | Daily life and caring at home |
-| [[Caring for a person with ME-CFS\|Caring for a person with ME-CFS]] | 📜 | Daily life and caring at home, Diagnosis and getting care, Post-exertional malaise |
-| [[Guidance on Home-Based Care for People with Severe ME-CFS A Transdisciplinary Expert Statement\|Guidance on Home-Based Care for People with Severe ME-CFS A Transdisci]] | 📜 | Daily life and caring at home |
-| [[ME-CFS Crash Survival Guide\|ME-CFS Crash Survival Guide]] | 📜 | Daily life and caring at home, Post-exertional malaise |
+| [[Beyond Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Redefining an Illness\|Beyond Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Redefining an Illness]] | 🔬 | Diagnosis and getting care, Post-exertional malaise, Reading the research, What ME-CFS is |
+| [[Cardiopulmonary and metabolic responses during a 2-day CPET in ME-CFS\|Cardiopulmonary and metabolic responses during a 2-day CPET in myalgic encephalomyelitis/chronic fatigue syndrome: translating reduced oxygen consumption to impairment status to treatment considerations]] | 🔬 | Post-exertional malaise, Reading the research |
+| [[Cardiopulmonary exercise test methodology for assessing exertion intolerance in ME-CFS\|Cardiopulmonary Exercise Test Methodology for Assessing Exertion Intolerance in Myalgic Encephalomyelitis/Chronic Fatigue Syndrome]] | 🔬 | Post-exertional malaise |
+| [[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers\|Caring for Patients with ME/CFS (CDC Clinical Care and Treatment pages for health care providers)]] | 🔬 | Daily life and caring at home, Diagnosis and getting care, Post-exertional malaise, Reading the research, What ME-CFS is |
+| [[Deep phenotyping of post-infectious ME-CFS\|Deep phenotyping of post-infectious myalgic encephalomyelitis/chronic fatigue syndrome]] | 🔬 | Reading the research |
+| [[Diagnosing and Treating Myalgic Encephalomyelitis-Chronic Fatigue Syndrome (ME-CFS)\|Diagnosing and Treating Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS), Version 2]] | 🔬 | Daily life and caring at home, Diagnosis and getting care, Post-exertional malaise, What ME-CFS is |
+| [[Exercise therapy for chronic fatigue syndrome Cochrane review\|Exercise therapy for chronic fatigue syndrome]] | 🔬 | Reading the research |
+| [[Graded exercise therapy for ME-CFS is not effective and unsafe - re-analysis of a Cochrane review\|Graded exercise therapy for myalgic encephalomyelitis/chronic fatigue syndrome is not effective and unsafe. Re-analysis of a Cochrane review]] | 🔬 | Post-exertional malaise, Reading the research |
+| [[ME-CFS patients' reports of symptom changes following CBT, GET and pacing\|Myalgic encephalomyelitis/chronic fatigue syndrome patients' reports of symptom changes following cognitive behavioural therapy, graded exercise therapy and pacing treatments: Analysis of a primary survey compared with secondary surveys]] | 🔬 | Reading the research |
+| [[Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Clinical Working Case Definition, Diagnostic and Treatment Protocols\|Myalgic Encephalomyelitis/Chronic Fatigue Syndrome: Clinical Working Case Definition, Diagnostic and Treatment Protocols]] | 🔬 | Reading the research |
+| [[Myalgic Encephalomyelitis-Chronic Fatigue Syndrome in Adults United States, 2021–2022\|Myalgic Encephalomyelitis/Chronic Fatigue Syndrome in Adults: United States, 2021–2022]] | 🔬 | Reading the research |
+| [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206\|Myalgic encephalomyelitis (or encephalopathy)/chronic fatigue syndrome: diagnosis and management (NICE guideline NG206)]] | 🔬 | Daily life and caring at home, Diagnosis and getting care, Post-exertional malaise, Reading the research, What ME-CFS is |
+| [[Myalgic encephalomyelitis International Consensus Criteria\|Myalgic encephalomyelitis: International Consensus Criteria]] | 🔬 | Reading the research |
+| [[PACE trial of adaptive pacing, CBT, graded exercise and specialist medical care for CFS\|Comparison of adaptive pacing therapy, cognitive behaviour therapy, graded exercise therapy, and specialist medical care for chronic fatigue syndrome (PACE): a randomised trial]] | 🔬 | Reading the research |
+| [[Rethinking the treatment of CFS - a reanalysis of the PACE trial\|Rethinking the treatment of chronic fatigue syndrome—a reanalysis and evaluation of findings from a recent major trial of graded exercise and CBT]] | 🔬 | Reading the research |
+| [[The Prospects of the Two-Day CPET in ME-CFS Patients - A Meta-Analysis\|The Prospects of the Two-Day Cardiopulmonary Exercise Test (CPET) in ME/CFS Patients: A Meta-Analysis]] | 🔬 | Post-exertional malaise |
+| [[Caring for Care-Givers Information and practical resources\|Caring for Care-Givers: Information and practical resources]] | 📜 | Daily life and caring at home |
+| [[Caring for a person with ME-CFS\|Caring for a person with ME/CFS]] | 📜 | Daily life and caring at home, Diagnosis and getting care, Post-exertional malaise |
+| [[Guidance on Home-Based Care for People with Severe ME-CFS A Transdisciplinary Expert Statement\|Guidance on Home-Based Care for People with Severe ME/CFS: A Transdisciplinary Expert Statement]] | 📜 | Daily life and caring at home |
+| [[ME-CFS Crash Survival Guide\|ME/CFS Crash Survival Guide: The Art of Living with ME/CFS]] | 📜 | Daily life and caring at home, Post-exertional malaise |
 | [[Pacing and energy management\|Pacing and energy management]] | 📜 | Daily life and caring at home |
-| [[A 30-year journey to a CFS diagnosis\|️A 30-year journey to a CFS diagnosis]] | 🗣️ | Diagnosis and getting care, Reading the research |
-| [[Adult child helping a mother with ME-CFS\|️Adult child helping a mother with ME-CFS]] | 🗣️ | What ME-CFS is |
-| [[Delayed crash after a tiring trip\|️Delayed crash after a tiring trip]] | 🗣️ | Post-exertional malaise |
-| [[Partner care during a rapid decline to very severe ME\|️Partner care during a rapid decline to very severe ME]] | 🗣️ | Daily life and caring at home |
-| [[Strict pacing stabilizes a moderate ME-CFS baseline\|️Strict pacing stabilizes a moderate ME-CFS baseline]] | 🗣️ | Daily life and caring at home |
-| [[Very severe ME - bedbound and dependent on father\|️Very severe ME: bedbound and dependent on father]] | 🗣️ | Daily life and caring at home |
+| [[A 30-year journey to a CFS diagnosis\|Storytime! My weird journey to a CFS diagnosis]] | 🗣️ | Diagnosis and getting care, Reading the research |
+| [[Adult child helping a mother with ME-CFS\|My Mom Is Sick.]] | 🗣️ | What ME-CFS is |
+| [[Delayed crash after a tiring trip\|Crashing - super delayed ? Is that legit?]] | 🗣️ | Post-exertional malaise |
+| [[Partner care during a rapid decline to very severe ME\|My partner is really sick and I don't know what else to do to help]] | 🗣️ | Daily life and caring at home |
+| [[Strict pacing stabilizes a moderate ME-CFS baseline\|Deteriorated from mild to moderate this year. Strict pacing has stabilised my baseline, but stuck at a plateau. what were your earliest signs that you were actually starting to improve?]] | 🗣️ | Daily life and caring at home |
+| [[Very severe ME - bedbound and dependent on father\|I can’t with my father burnout]] | 🗣️ | Daily life and caring at home |
 
-## 🔭 Areas to expand
-- **US carer resources:** the carer support section leans on UK charities (carer's assessment, GP registration, respite); US equivalents aren't covered yet.
-- **Disease mechanisms:** the immune, autonomic, and energy-metabolism findings the Clinician Coalition mentions; the NIH deep-phenotyping study (Walitt 2024) is saved but only cited for its sample size.
+## 🚧 Not covered yet
+- **Carer support outside the UK:** the carer support section leans on UK charities (carer's assessment, GP registration, respite); other countries' equivalents aren't covered.
+- **How ME/CFS works in the body:** neurological, immune, autonomic, and energy-metabolism mechanisms in depth.
 - **Orthostatic intolerance and POTS:** testing and what helps, in depth.
-- **Severe and very severe ME/CFS:** the 2026 home-care expert statement has much more (nutrition, hygiene, home visits) than the daily-life page uses.
-- **Long COVID overlap:** the corpus has Long COVID sources and the NASEM Long COVID definition.
-- **Children and young people:** NICE's sections for children, and the pediatric corpus notes.
-- **Work, school, and disability support** (US-specific).
-- **Saved but unused:** the housebound vs nonhousebound study, the pacing consensus document, NICE evidence review G, and the Bateman 2021 Mayo Clinic Proceedings paper (only its abstract could be saved; full text returned 403).
-- **Non-English sources:** the corpus's French paper on recognizing PEM in primary care (Garcia 2026) could be added with English translations.
+- **More on severe and very severe ME/CFS:** nutrition, hygiene, and home visits.
+- **Long COVID** and how it overlaps with ME/CFS.
+- **Children and young people.**
+- **Work, school, and disability support** in depth, such as country-specific processes.
 
 Start reading: [[What ME-CFS is|What ME/CFS is]] →

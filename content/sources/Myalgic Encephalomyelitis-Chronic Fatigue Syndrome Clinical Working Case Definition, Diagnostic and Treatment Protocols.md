@@ -4,16 +4,20 @@ link: https://doi.org/10.1300/J092v11n01_02
 doi: 10.1300/J092v11n01_02
 published: 2003-01-01
 ---
+*By Bruce M. Carruthers, 2003.*
+
+Cited in: [[Reading the research|Reading the research]] · [[Glossary|📖 Glossary]]
+
 ## Summary
 This is the original Canadian Consensus Criteria (CCC) paper. Carruthers and 11 co-authors, an Expert Medical Consensus Panel convened under Health Canada terms of reference, published it in the Journal of Chronic Fatigue Syndrome 11(1):7–115. It gives a clinical working case definition built on patterns of symptom clusters, along with diagnostic and treatment protocols. It was intended for treating clinicians rather than for research selection. The panel argued that the CDC 1994 definition, which made severe fatigue the only compulsory criterion, made it harder to tell ME/CFS apart from ordinary fatigue or other fatiguing illnesses.
 
-**This is a case definition, not a cohort.** `case_definition: [CCC]` is the definition the paper creates. `pem_required: true` follows the corpus rubric for CCC: post-exertional malaise and/or fatigue with a pathologically slow recovery is a required criterion.
+**This is a case definition, not a cohort.** The paper creates the Canadian Consensus Criteria (CCC), which require post-exertional malaise and/or fatigue with a pathologically slow recovery.
 
 ## Methods
 - **Panel.** An Expert Subcommittee of Health Canada set the terms of reference and selected a panel of treating physicians, teaching faculty, and researchers.
 - **Process.** A consensus workshop, held 30 March to 1 April 2001, concluded the review process. The panel reports collective experience diagnosing or treating more than 20,000 ME/CFS patients.
-- **Indexing.** The DOI resolves through Crossref to Journal of Chronic Fatigue Syndrome 11(1):7–115 (January 2003; Haworth Press, now Taylor & Francis). The paper is not indexed in PubMed: searches of the title and of Carruthers BM with 2003 returned nothing, so `pmid` is empty.
-- **Copy reviewed.** The definition and diagnostic-protocol pages were read from the copy linked by the US ME/CFS Clinician Coalition handout (phoenixrising.me, `Canadian-definition.pdf`, journal pages 7–28). There is no patient sample (`n` blank).
+- **Indexing.** The DOI resolves through Crossref to Journal of Chronic Fatigue Syndrome 11(1):7–115 (January 2003; Haworth Press, now Taylor & Francis). The paper is not indexed in PubMed: searches of the title and of Carruthers BM with 2003 returned nothing.
+- **Copy reviewed.** The definition and diagnostic-protocol pages were read from the copy linked by the US ME/CFS Clinician Coalition handout (phoenixrising.me, `Canadian-definition.pdf`, journal pages 7–28). There is no patient sample.
 
 ## Findings
 - **Definition.** A patient must meet all of these:
@@ -32,8 +36,8 @@ This is the original Canadian Consensus Criteria (CCC) paper. Carruthers and 11 
 - **Diagnostic protocol.** It covers a focused history and system review, a physical examination (including fibromyalgia tender points, Romberg, tandem gait, and lying and standing blood pressure), routine labs, and optional further tests: tilt table, sleep study, Holter monitoring, neuropsychological testing, and imaging.
 - **Exercise and psychiatric overlap.** The paper contrasts ME/CFS with fibromyalgia on exercise response: aerobic exercise "often aggravates" ME/CFS. It distinguishes ME/CFS from primary depression by symptom pattern and timing.
 
-## Limitations / flags
-- The paper's treatment-protocol section was not in the accessible copy, and the full journal version is paywalled. `treatments` is therefore left empty rather than filled from memory.
+## Limitations
+- The paper's treatment-protocol section was not in the accessible copy, and the full journal version is paywalled, so its treatment protocols aren't summarized here.
 - The IOM 2015 report observes that under the CCC a symptom only needs to be present to count, with no minimum frequency or severity. The 2010 Revised CCC by Jason et al. added those thresholds.
 - This is a consensus definition; the panel cites but did not run validation studies.
 - No retraction or correction notice was found in Crossref.
@@ -41,8 +45,7 @@ This is the original Canadian Consensus Criteria (CCC) paper. Carruthers and 11 
 ## Abstract
 From the paper: an Expert Subcommittee of Health Canada established the terms of reference and selected an Expert Medical Consensus Panel of treating physicians, teaching faculty, and researchers. A consensus workshop held March 30 to April 1, 2001 concluded the review process and established consensus for a clinical working case definition, diagnostic protocols, and treatment protocols. The authors present a systematic clinical working case definition that encourages diagnosis based on characteristic patterns of symptom clusters reflecting specific areas of pathogenesis, along with diagnostic and treatment protocols and a short research overview. ^q1
 
-## Full text
-
+## Quoted passages
 
 ### Clinical Working Case Definition of ME/CFS
 A patient with ME/CFS will meet the criteria for fatigue, post-exertional malaise and/or fatigue, sleep dysfunction, and pain; have two or more neurological/cognitive manifestations and one or more symptoms from two of the categories of autonomic, neuroendocrine and immune manifestations; and adhere to item 7. ^q2
@@ -57,5 +60,3 @@ A patient with ME/CFS will meet the criteria for fatigue, post-exertional malais
 
 7. The illness persists for at least six months. It usually has a distinct onset, although it may be gradual. Preliminary diagnosis may be possible earlier. Three months is appropriate for children. To be included, the symptoms must have begun or have been significantly altered after the onset of this illness. It is unlikely that a patient will suffer from all symptoms in criteria 5 and 6. The disturbances tend to form symptom clusters that may fluctuate and change over time. Children often have numerous prominent symptoms but their order of severity tends to vary from day to day. ^q7
 
-### Applying the criteria
-A symptom has significant severity if it substantially impacts (approximately a 50% reduction) on the patient’s life experience and activities. In assessing severity and impact, compare the patient’s activity level to their premorbid activity level. Establishing the severity score of symptoms is important in the diagnostic procedure and should be repeated periodically. ^q8

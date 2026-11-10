@@ -3,6 +3,10 @@ title: "Diagnosing and Treating Myalgic Encephalomyelitis/Chronic Fatigue Syndro
 link: https://mecfscliniciancoalition.org/wp-content/uploads/2021/06/MECFS-Clinician-Coalition-Diagnosis-and-Treatment-Handout-V2.pdf
 published: 2020-07-01
 ---
+*By US ME-CFS Clinician Coalition, 2020.*
+
+Cited in: [[What ME-CFS is|What ME/CFS is]] · [[Post-exertional malaise|Post-exertional malaise]] · [[Daily life and caring at home|Daily life and caring at home]] · [[Diagnosis and getting care|Diagnosis and getting care]] · [[FAQ|❓ FAQ]] · [[Glossary|📖 Glossary]]
+
 ## Summary
 This six-page handout from the US ME/CFS Clinician Coalition, a group of about 20 US ME/CFS specialists, is a primary-care primer. Its full title is "Diagnosing and Treating Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)", Version 2, July 2020. It covers:
 - how to recognize ME/CFS under the 2015 National Academy of Medicine (IOM) criteria;
@@ -13,9 +17,9 @@ This six-page handout from the US ME/CFS Clinician Coalition, a group of about 2
 The Coalition's Clinical Management page labels it "2020 ME/CFS Clinician Coalition Handout: Basics of Diagnosis and Treatment". As of 2026-11-06 it was the newest version on the site: the V2 PDF was uploaded in June 2021, and the site's media library had no later version.
 
 ## Methods
-- **Design.** This is an expert-consensus handout from a named group of clinicians (members listed on page 1) and cites no evidence grading. It has no patient sample (`n` blank). Mary Dimmock and Lily Chu, MD, helped compile it.
-- **Case definition.** Diagnosis follows the NAM/IOM 2015 criteria, so `case_definition: [IOM]` and `pem_required: true`. The handout says experts may also use the CCC (2003) or ICC (2011) to validate a diagnosis.
-- **Dates.** "July 2020" is printed on every page; no day is given, so `published` uses the first of the month. The PDF was fetched on 2026-11-06 from the Coalition's Clinical Management page.
+- **Design.** This is an expert-consensus handout from a named group of clinicians (members listed on page 1) and cites no evidence grading. It has no patient sample. Mary Dimmock and Lily Chu, MD, helped compile it.
+- **Case definition.** Diagnosis follows the NAM/IOM 2015 criteria, which require PEM. The handout says experts may also use the CCC (2003) or ICC (2011) to validate a diagnosis.
+- **Dates.** "July 2020" is printed on every page; no day is given. The PDF was fetched on 2026-11-06 from the Coalition's Clinical Management page.
 - **Disclosures.** The handout carries no funding or conflict-of-interest statement.
 
 ## Findings
@@ -49,18 +53,14 @@ The Coalition's Clinical Management page labels it "2020 ME/CFS Clinician Coalit
   - at least 25% housebound or bedbound and up to 75% unable to work or attend school;
   - annual US cost of 17 to 24 billion dollars.
 
-## Limitations / flags
+## Limitations
 - Bateman et al. (Mayo Clinic Proceedings, 2021) is a peer-reviewed Coalition article by largely the same clinicians that covers the same ground in more depth.
 - This is a short expert handout, not a systematic review or graded guideline. The medicine list is illustrative and is described as not exhaustive. It says these treatments "can help reduce the severity of symptoms" but cites no trials for that; its references are primers, case-definition papers, a JAMA pathophysiology review, and clinician guides.
-- `treatments` links every medicine and non-drug measure the handout names, except meditation and cognitive or sensory aids.
 
 ## Abstract
 No abstract. The handout describes itself as basic information on recognizing the distinctive symptoms of ME/CFS, identifying PEM, differential diagnosis and comorbidities, and "treating and managing ME/CFS (the basics)" for medical providers.
 
-## Full text
-
-
-Source: *Diagnosing and Treating Myalgic Encephalomyelitis/Chronic Fatigue Syndrome (ME/CFS)*, Version 2, July 2020, pp. 2–6.
+## Quoted passages
 
 ### Presentation, diagnosis and core symptoms
 
@@ -101,13 +101,9 @@ Drugs should be started at low doses and increased slowly to avoid triggering dr
 
 ### Basic facts
 
-ME/CFS affects an estimated 836,000 to 2.5 million Americans but an estimated 84 to 91 percent of patients have not yet been diagnosed. ^q17
-
 ME/CFS affects 3 times as many women as men. Studies have shown one peak of onset between 11-19 and a second between 30-39. ^q18
 
 At least 25% of patients are bedbound or housebound and up to 75% are unable to work or attend school. Symptoms can persist for years, and most patients never regain their pre-disease functioning. ^q19
-
-ME/CFS costs the US $17 to $24 billion annually in lost productivity and direct medical costs. ^q20
 
 The cause of ME/CFS is unknown, although the disease often follows an infection. ^q21
 

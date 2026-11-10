@@ -4,12 +4,16 @@ link: https://doi.org/10.1177/2055102918805187
 doi: 10.1177/2055102918805187
 published: 2018-10-08
 ---
+*By Mark Vink, 2018.*
+
+Cited in: [[Post-exertional malaise|Post-exertional malaise]] · [[Reading the research|Reading the research]] · [[FAQ|❓ FAQ]] · [[Glossary|📖 Glossary]]
+
 ## Summary
 This critical re-analysis examines the 2017 version of the Cochrane review of exercise therapy for CFS (Larun et al. 2017) and its eight included trials. The authors argue that the review's conclusion that graded exercise therapy (GET) is effective and safe is not supported. They base this on study selection, case definitions, entry criteria, reliance on subjective outcomes in unblinded trials, the Chalder Fatigue Scale, dropouts, and harms reporting. They also argue that the trials' objective outcomes show GET to be ineffective. The current Cochrane version is [[Exercise therapy for chronic fatigue syndrome Cochrane review|Exercise therapy for chronic fatigue syndrome]].
 
 ## Methods
 - **Design:** narrative critique and re-analysis, without a new systematic search, pooled statistics, or a stated protocol. The authors re-read the eight RCTs in the Cochrane review, giving 1,510 participants by their count: Fulcher & White 1997 (66), Wearden 1998 (136), Powell 2001 (148), Wallman 2004 (61), Moss-Morris 2005 (49), Jason 2007 (114), Wearden 2010 (296), and White 2011/PACE (640). They then tabulate the objective outcomes those trials reported.
-- **Case definitions in the analysed trials:** Oxford in five trials and CDC 1994/Fukuda in three. Neither requires PEM, so this note uses `case_definition: [mixed]`, `pem_required: false`, and `no-pem-criterion`.
+- **Case definitions in the analysed trials:** Oxford in five trials and CDC 1994/Fukuda in three. Neither requires PEM.
 - **Funding and conflicts:** the authors (Soerabaja Research Center, Netherlands; independent researcher, Germany) report no funding and no conflicts.
 
 ## Findings
@@ -35,16 +39,16 @@ The authors report "seven general issues" with the review:
 
 **Authors' conclusion:** GET cannot be called safe, and the objective outcomes give "sufficient evidence to conclude that graded exercise therapy is an ineffective treatment".
 
-## Limitations / flags
+## Limitations
 - **Method:** this is a narrative critique, not a systematic re-analysis. Its quantitative claims come from reading individual trial reports and FOI-released data, without pooled statistics or a formal risk-of-bias tool. The title states its conclusion.
 - **Superseded target:** it critiques the 2017 Cochrane version. Cochrane amended the review in October 2019 (pub8) after a separate formal complaint, and issued a new citation in December 2024 (pub9). Those versions acknowledge the limits of the case definitions and the uncertainty about harms, and keep the conclusion that exercise probably reduces fatigue at end of treatment.
-- **Cohorts:** the underlying trials are Oxford/Fukuda cohorts (`no-pem-criterion`). The paper analyses PACE-era GET trial data (`pace-lineage` marks the data lineage, not the authors' position).
+- **Cohorts:** the underlying trials are Oxford/Fukuda cohorts, which don't require PEM. The paper analyses PACE-era GET trial data.
 - **Corrections:** no retraction or correction is listed in Crossref or PubMed as of 2026-11-06.
 
 ## Abstract
 The analysis of the 2017 Cochrane review reveals flaws, which means that contrary to its findings, there is no evidence that graded exercise therapy is effective. Because of the failure to report harms adequately in the trials covered by the review, it cannot be said that graded exercise therapy is safe. The analysis of the objective outcomes in the trials provides sufficient evidence to conclude that graded exercise therapy is an ineffective treatment for myalgic encephalomyelitis/chronic fatigue syndrome. ^q1
 
-## Full text
+## Quoted passages
 
 ### Case definitions
 PEM is now accepted as a core symptom ([IOM, 2015](#bibr34-2055102918805187)) of CFS but is only optional and not compulsory for diagnosis in Fukuda as it is one of the eight additional criteria ([Fukuda et al., 1994](#bibr21-2055102918805187)). A total of 15 per cent of people labelled by these criteria as having CFS were in fact healthy people ([Friedberg et al., 2000](#bibr20-2055102918805187)). The use of the Oxford and the Fukuda criteria in all eight of the studies means that they may have included patients who did not have CFS but who were susceptible to the interventions. ^q2

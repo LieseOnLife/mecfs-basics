@@ -4,6 +4,9 @@ link: "https://batemanhornecenter.org/wp-content/uploads/filebase/crash_care/Ora
 published: "2022"
 created: 2026-11-08 12:59:21
 ---
+*By Bateman Horne Center, 2022.*
+
+Cited in: [[Post-exertional malaise|Post-exertional malaise]] · [[Daily life and caring at home|Daily life and caring at home]] · [[FAQ|❓ FAQ]]
 
 > [!info] About this source
 > **What:** Bateman Horne Center's first-edition 2022 ME/CFS Crash Survival Guide, designed for patients, their support networks, and care teams.
@@ -13,19 +16,18 @@ created: 2026-11-08 12:59:21
 > **Used for:** Recognizing PEM and severe crashes, supporting a person during a crash, reducing sensory demands, supporting nonverbal communication, and knowing when to seek professional medical assessment.
 
 ## Highlights
-- Defines PEM in relation to physical, cognitive, emotional, orthostatic, environmental, and sensory stress, and reports a delay of 12–72 hours with possible duration of hours to months. [[#^q1]]
-- Lists flu-like and cognitive symptoms and increased sensitivity to stimuli as possible PEM features. [[#^q2]]
-- Describes crashes that can prevent basic functions such as walking, talking, eating, drinking, or sitting upright. [[#^q3]]
-- Says to allow recovery in a crash and avoid a repeated push-crash cycle. [[#^q4]]
-- Advises contacting the person's primary-care doctor and emergency contacts during a crash. [[#^q5]]
-- Describes reducing light, noise, touch, smell, and other sensory stimuli during a crash. [[#^q6]]
-- Notes that the person may be unable or unwilling to talk and says communication cards or devices should be used only as necessary. [[#^q7]] [[#^q8]]
-- States that the caregiver's goal is to encourage rest, reduce movement, and conserve the person's energy. [[#^q9]]
-- Includes a reassuring reminder for caregivers after the patient is safe. [[#^q10]]
-- Says to seek professional medical assessment when the person or caregiver is concerned about the person's condition. [[#^q11]]
+- Defines PEM in relation to physical, cognitive, emotional, orthostatic, environmental, and sensory stress, and reports a delay of 12–72 hours with possible duration of hours to months. [[#^q1|passage]]
+- Lists flu-like and cognitive symptoms and increased sensitivity to stimuli as possible PEM features. [[#^q2|passage]]
+- Describes crashes that can prevent basic functions such as walking, talking, eating, drinking, or sitting upright. [[#^q3|passage]]
+- Says to allow recovery in a crash and avoid a repeated push-crash cycle. [[#^q4|passage]]
+- Advises contacting the person's primary-care doctor and emergency contacts during a crash. [[#^q5|passage]]
+- Describes reducing light, noise, touch, smell, and other sensory stimuli during a crash. [[#^q6|passage]]
+- Notes that the person may be unable or unwilling to talk and says communication cards or devices should be used only as necessary. [[#^q7|passage]] [[#^q8|passage]]
+- States that the caregiver's goal is to encourage rest, reduce movement, and conserve the person's energy. [[#^q9|passage]]
+- Includes a reassuring reminder for caregivers after the patient is safe. [[#^q10|passage]]
+- Says to seek professional medical assessment when the person or caregiver is concerned about the person's condition. [[#^q11|passage]]
 
-## Article
-
+## Quoted passages
 
 ### What is ME/CFS and Understanding a Crash
 

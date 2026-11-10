@@ -4,6 +4,10 @@ link: https://pmc.ncbi.nlm.nih.gov/articles/PMC11229500/
 doi: "10.1186/s12967-024-05410-5"
 published: 2024-07-05
 ---
+*By Betsy Keller, 2024.*
+
+Cited in: [[Post-exertional malaise|Post-exertional malaise]] · [[Reading the research|Reading the research]] · [[Glossary|📖 Glossary]]
+
 ## Summary
 This is the largest two-day cardiopulmonary exercise test (2-day CPET) study of ME/CFS. 84 people meeting the Canadian Consensus Criteria (CCC) and 71 sedentary controls each did two maximal cycling tests 24 hours apart. Controls reproduced their day-1 results on day 2. The ME/CFS group did not: work, oxygen uptake, ventilation, heart rate, and related measures fell on day 2, at peak effort and at the ventilatory/anaerobic threshold (VAT). The pattern held in 55 pairs matched for sex, age, and baseline aerobic capacity, so the authors argue that fitness level does not explain it. They then translate the day-2 results into a more severe impairment classification and discuss non-drug management ideas, which they did not test.
 
@@ -18,11 +22,11 @@ Data were collected from 2018 to 2022 at Ithaca College (Ithaca, NY), Weill Corn
 - **Stability and impairment:** CPET values were more stable across days in controls than in ME/CFS. Classified by day-2 data, the ME/CFS group's impairment status was more severe than by day-1 data.
 - **Management ideas:** The discussion proposes untested, non-drug approaches. Most concrete is pacing with a heart-rate-monitor alarm set about 10 bpm below the heart rate at VAT, or, when that isn't known, resting heart rate plus 15 bpm or a low perceived-exertion ceiling. The section also mentions compression garments, transcutaneous vagus nerve stimulation, whole-body cryotherapy, photobiomodulation, slow breathing, and blood-flow-restriction training as ideas to study.
 
-## Limitations / flags
-- **Conflict of interest:** Several authors (BK, CR, JS, SS) run 2-day CPETs on a fee-for-service basis, hence `conflict-of-interest`.
+## Limitations
+- **Conflict of interest:** Several authors (BK, CR, JS, SS) run 2-day CPETs on a fee-for-service basis.
 - **Sample and effect sizes:** The authors name sample size as the main limitation and say many effect sizes were small to moderate. They note that a larger single-day CPET study (MCAM, Cook et al.) found fewer differences.
 - **Generalizability:** Most patients were mild to moderate, and the ME/CFS group had a higher share of Caucasian participants than controls. The authors say results may not apply to severely ill people or to all races and ethnicities. Sex differences were not analyzed, and registration was retrospective.
-- **Treatments:** The management section draws on clinical experience and indirect evidence, not outcomes from this study. Only pacing is linked, because the heart-rate-threshold advice comes directly from this study's VAT data; the other approaches are listed above but not linked.
+- **Treatments:** The management section draws on clinical experience and indirect evidence, not outcomes from this study.
 
 ## Abstract
 **Background:** Post-exertional malaise (PEM), the hallmark symptom of myalgic encephalomyelitis/chronic fatigue syndrome (ME/CFS), represents a constellation of abnormal responses to physical, cognitive, and/or emotional exertion including profound fatigue, cognitive dysfunction, and exertion intolerance, among numerous other maladies. Two sequential cardiopulmonary exercise tests (2-d CPET) provide objective evidence of abnormal responses to exertion in ME/CFS but validated only in studies with small sample sizes. Further, translation of results to impairment status and approaches to symptom reduction are lacking.
@@ -35,11 +39,8 @@ Data were collected from 2018 to 2022 at Ithaca College (Ithaca, NY), Weill Corn
 
 **Trial registration:** ClinicalTrials.gov, retrospectively registered, ID# NCT04026425, date of registration: 2019-07-17.
 
-## Full text
+## Quoted passages
 ![[keller-cardiopulmonary-metabolic-responses-2day-cpet.pdf]]
-
-### Methods
-The CPET protocol was an incremental, ramping workload on an accommodating-resistance electronically-braked cycle ergometer. Following 3 min of seated rest on the ergometer, the exercise protocol began at 0 Watts (W) with an incremental rise in work intensity of 15 W throughout each minute of exercise at the rate of 5W over 20 s. Participants completed two maximum effort CPETs separated by 24 h. ^q4
 
 ### Results
 In the matched-pairs sample, a comparison of CPET-1 to CPET-2 for ME/CFS revealed persistent declines in 8 of 11 CPET measures in the total ME/CFS sample discussed above, with V˙T, O2pulse, and DBP no longer significantly different between tests. However, two cardiovascular measures (HR, RPP) that decreased on CPET-2 (*p* ≤ 0.05) in the total sample were also lower on CPET-2 (*p* ≤ 0.01) in ME/CFS in the matched-pairs. Thus, the post-exertional deterioration of CPET measures during CPET-2 further corroborates the impact of PEM on oxygen delivery and energy production in ME/CFS. In contrast, only one measure (V˙CO2) for CTL in the matched-pairs decreased from CPET-1 to CPET-2 (*p* ≤ 0.01), further supporting the well-established high reliability and consistency of peak CPET measures [[51](#CR51)], and consistent with the comparatively high intraclass correlation coefficients (ICC) for CTL discussed below (Table [5](#Tab5)). ^q5

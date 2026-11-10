@@ -4,6 +4,10 @@ link: https://pmc.ncbi.nlm.nih.gov/articles/PMC7765094/
 doi: "10.3390/jcm9124040"
 published: 2020-12-14
 ---
+*By Eun-Jin Lim, 2020.*
+
+Cited in: [[Post-exertional malaise|Post-exertional malaise]]
+
 ## Summary
 This Korean meta-analysis pooled five controlled two-day cardiopulmonary exercise test (2-day CPET) studies of ME/CFS to ask whether the test could serve as an objective measure of PEM. From test 1 to test 2, average values for peak VO2, VO2 at the ventilatory threshold (VT), peak workload, and workload at VT went down in patients and stayed flat or went up in controls. Only the change in workload at VT differed significantly between patients and controls. The authors conclude that 2-day CPET, and workload at VT in particular, shows promise as an objective PEM marker. They say larger studies, including comparisons with other fatiguing conditions such as depression, are still needed.
 
@@ -13,7 +17,7 @@ This Korean meta-analysis pooled five controlled two-day cardiopulmonary exercis
 - **Included studies:** VanNess 2007, Vermeulen 2010, Snell 2013, Hodges 2017, and Nelson 2019. Together they cover 98 patients (90 female) and 51 controls (45 female), n=149.
 - **Case definitions:** All five studies used the 1994 Fukuda criteria. Hodges 2017 and Nelson 2019 also applied the Canadian Consensus Criteria (CCC) and/or the International Consensus Criteria (ICC), and Snell 2013 also required PEM.
 - **Analysis:** Quality was rated with the Newcastle-Ottawa Scale. Mean differences were pooled with random-effects models in RevMan 5.3, with heterogeneity measured by I². No protocol registration or PRISMA statement is reported.
-- **Journal correction:** Saje's request listed this paper as published in the *Journal of Translational Medicine*. It was published in the *Journal of Clinical Medicine* (9(12):4040), and this is the intended paper.
+- **Journal:** published in the *Journal of Clinical Medicine* (9(12):4040).
 
 ## Findings
 - **Pooled change from test 1 to test 2, patients:** peak VO2 −1.7 mL/kg/min, VO2 at VT −1.1 mL/kg/min, peak workload −7.5 W, workload at VT −16.6 W.
@@ -23,8 +27,8 @@ This Korean meta-analysis pooled five controlled two-day cardiopulmonary exercis
 - **Heterogeneity:** Low for most measures, but substantial for patients' change in workload at VT (I² = 60%). Snell 2013, the largest study (51 patients), carried the most weight and showed the largest drop in workload at VT.
 - **Other conditions:** In the discussion, the authors cite repeated-CPET studies in lung, heart, kidney disease, multiple sclerosis, and HIV that did not show a test-2 decline.
 
-## Limitations / flags
-- **Case definition:** Every included study used Fukuda, which does not require PEM, and only some added CCC/ICC or a PEM requirement. Hence `no-pem-criterion` and `pem_required: false`.
+## Limitations
+- **Case definition:** Every included study used Fukuda, which does not require PEM, and only some added CCC/ICC or a PEM requirement.
 - **Small evidence base:** Only five small studies (6 to 51 patients each). The authors name the small number of participants and studies as a limitation, along with the lack of sex-specific percent-predicted values.
 - **Weak overall signal:** Three of the four patient-versus-control comparisons were not significant. The one significant result, workload at VT, had substantial heterogeneity in the patient data and was weighted mainly toward one study (Snell 2013).
 - **Review methods:** The search used only limited keywords (CFS MeSH plus CPET) and no registration or PRISMA statement is reported.
@@ -39,10 +43,9 @@ This Korean meta-analysis pooled five controlled two-day cardiopulmonary exercis
 
 **Conclusions:** Our results show the potential of the two-day CPET to serve as an objective assessment of PEM in ME/CFS patients. Further clinical trials are required to validate this tool compared to other fatigue-inducing disorders, including depression, using well-designed large-scale studies. ^q3
 
-## Full text
+## Quoted passages
 
 ### Methods
-The search was conducted from February to June 2020. The search keywords were ‘Chronic fatigue syndrome’ [MeSH terms] AND ‘cardiopulmonary exercise test’ or ‘CEPT’ [MeSH terms]. Papers were screened using the following inclusion criteria: (a) studies of cross-sectional, case–control, prospective studies that conducted the CPET to measure diagnostic parameters for ME/CFS, (b) two-day CPET with the two sessions conducted 24 h apart, (c) studies that measured the four parameters (VO2peak, Workloadpeak, VO2@VT, and Workload@VT) for the test. ^q4
 
 In total, 218 studies were initially selected as candidates for this meta-analysis; ultimately, 5 studies were included. All studies used the same study protocol (an incremental cycling protocol with an interval of 24 h) and case definition (Fukuda) for inclusion of participants. Two studies additionally used the International Consensus Criteria (ICC) and/or the Canadian Consensus Criteria (CCC). The total number of participants across the five studies was 98 ME/CFS patients (90 female and 8 male) and 51 controls (45 female and 6 male). ^q5
 

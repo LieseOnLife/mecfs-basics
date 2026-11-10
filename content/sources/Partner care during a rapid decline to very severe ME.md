@@ -3,6 +3,9 @@ title: "My partner is really sick and I don't know what else to do to help"
 link: "https://www.reddit.com/r/cfs/comments/1stk2e6/my_partner_is_really_sick_and_i_dont_know_what/"
 published: 2026-04-23
 ---
+*By a member of r/cfs, 2026.*
+
+Cited in: [[Daily life and caring at home|Daily life and caring at home]]
 
 ## Their account (paraphrased)
 
@@ -20,6 +23,6 @@ The carer reports noise, light, smells, mental-health stress, and minor accident
 
 ## Quotes
 
-> **OP:** “Over the last 3 months they have been in rolling PEM experiencing one crash after another.” ^q5
+> **The poster:** “Over the last 3 months they have been in rolling PEM experiencing one crash after another.” ^q5
 
-> **OP:** “They can no longer tolerate my presence for more than 5 mins at a time” ^q6
+> **The poster:** “They can no longer tolerate my presence for more than 5 mins at a time” ^q6
