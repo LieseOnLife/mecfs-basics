@@ -1,11 +1,10 @@
 ---
-title: "📖 ME-CFS: glossary"
+title: "📖 Glossary"
 updated: 2026-11-08
 ---
 [[index|🏠 Home]]
 
-
-Alphabetical. Pages link here as `[[Glossary#Term|Term]]`.
+Terms in alphabetical order, with a link to the page that explains each one.
 
 ### 2-day CPET
 Two cardiopulmonary exercise tests 24 hours apart: the first measures baseline capacity and acts as a stressor; the second measures how function changed after it.[^stevens] Explained in [[Post-exertional malaise#The evidence: two-day exercise testing|The evidence: two-day exercise testing]].
@@ -23,7 +22,7 @@ NICE's term for a personalised plan agreed with the person (and family or carers
 In UK carer guidance, an assessment of the impact caring has on an unpaid carer and how they can be supported.[^carers-assessment] See [[Daily life and caring at home#Looking after yourself as a carer|Looking after yourself as a carer]].
 
 ### Cognitive behavioural therapy (CBT)
-A therapy that NICE says should only be offered to help people manage symptoms, improve functioning, and reduce distress, not as a cure.[^nice-cbt] See [[Reading the research#The PACE trial and the graded exercise story|The PACE trial and the graded exercise story]]. Treatment note: 💊Cognitive behavioral therapy.
+A therapy that NICE says should only be offered to help people manage symptoms, improve functioning, and reduce distress, not as a cure.[^nice-cbt] See [[Reading the research#The PACE trial and the graded exercise story|The PACE trial and the graded exercise story]].
 
 ### Crash
 What patients often call PEM: a worsening of symptoms and function after exertion, often delayed by hours or days.[^coal-crash] Explained in [[Post-exertional malaise#What PEM is|What PEM is]].
@@ -38,7 +37,7 @@ NICE's term for a person-led, non-curative strategy for using available energy w
 The 1994 Fukuda case definition, under which PEM is optional.[^vink-fukuda] See [[Reading the research#Case definitions: who counts as having ME/CFS|Case definitions: who counts as having ME/CFS]].
 
 ### Graded exercise therapy (GET)
-As NICE defines it: establishing a baseline of achievable activity, then making fixed incremental increases in time spent physically active.[^nice-get] NICE says not to offer it.[^nice-noget] See [[Reading the research#The PACE trial and the graded exercise story|The PACE trial and the graded exercise story]]. Treatment note: 💊Graded exercise therapy.
+As NICE defines it: establishing a baseline of achievable activity, then making fixed incremental increases in time spent physically active.[^nice-get] NICE says not to offer it.[^nice-noget] See [[Reading the research#The PACE trial and the graded exercise story|The PACE trial and the graded exercise story]].
 
 ### IOM criteria
 The Institute of Medicine diagnostic criteria: reduced function with fatigue lasting more than 6 months, PEM, and unrefreshing sleep, plus cognitive impairment or orthostatic intolerance, with symptoms present at least half the time at moderate or greater intensity.[^iom-criteria] Explained in [[What ME-CFS is#The core symptoms|The core symptoms]].
@@ -56,7 +55,7 @@ Symptoms that worsen when upright and improve (not always fully) when lying down
 A definition requiring fatigue as the main symptom, with significant disability and no exclusionary medical or psychiatric diagnosis; used in the PACE trial.[^pace-oxford] See [[Reading the research#Case definitions: who counts as having ME/CFS|Case definitions: who counts as having ME/CFS]].
 
 ### Pacing
-An individualised way of managing physical, cognitive, and emotional energy within a person's limits.[^coal-pacing] Explained in [[Daily life and caring at home#Pacing and the energy envelope|Pacing and the energy envelope]]. Treatment note: 💊Pacing.
+An individualised way of managing physical, cognitive, and emotional energy within a person's limits.[^coal-pacing] Explained in [[Daily life and caring at home#Pacing and the energy envelope|Pacing and the energy envelope]].
 
 ### Post-exertional malaise (PEM)
 Worsening of symptoms and function after physical or cognitive stress that was tolerated before the illness.[^iom-pem] Explained in [[Post-exertional malaise#What PEM is|What PEM is]].

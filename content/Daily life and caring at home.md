@@ -5,7 +5,6 @@ updated: 2026-11-08
 ---
 ← Previous: [[Post-exertional malaise|Post-exertional malaise]] · [[index|🏠 Home]] · Next: [[Diagnosis and getting care|Diagnosis and getting care]] →
 
-
 >[!warning] Evidence log, not medical advice
 >This page explains what research found and what people report. It doesn't recommend treatments. Talk through any change with a clinician who knows ME/CFS.
 
@@ -13,8 +12,6 @@ updated: 2026-11-08
 > Pacing means balancing rest and activity to stay within personal limits, the "energy envelope", so as to avoid post-exertional malaise ([[Post-exertional malaise|PEM]]) and relapses.[[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q17|CDC 2024]][[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q18|q18]] Guidelines describe it as person-led and not a cure.[[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q69|NICE 2021]][[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q70|q70]] Going beyond capacity can seriously worsen function,[[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q20|CDC 2024]] and doing too much on a "good day" can lead to a push-and-crash cycle.[[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q21|CDC 2024]] For severe illness, care centres on a low-stimulus environment and a detailed care plan,[[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q99|NICE 2021]] [[Guidance on Home-Based Care for People with Severe ME-CFS A Transdisciplinary Expert Statement#^q20|Hermisson et al. 2026]] and caregivers often carry substantial stress and may need support themselves.[[Caring for Patients with ME-CFS Clinical Care and Treatment for Health Care Providers#^q28|CDC 2024]]
 
 ## Pacing and the energy envelope
-Vault treatment note: 💊Pacing (guideline stance *recommended*), which collects every corpus source on pacing.
-
 - **What it is:** an individualized way of managing physical, cognitive, and emotional energy within a person's limits by planning where and how to spend it.[^coal-pacing] Every kind of activity uses energy, including conversations, reading, texting, and chores.[^mea-energy]
 - **How it's done:** break activities, mental or physical, into small chunks with rest in between;[^afme-chunks] plan rest, including pre-emptive rest;[^nice-plan] and break hard chores such as cleaning, cooking, or showering into shorter, less strenuous pieces.[^cdc-chores]
 - **Tracking:** activity logs, heart-rate monitors, and activity trackers can help show when someone is overdoing it,[^coal-pacing] and diaries help identify personal limits, especially early on.[^cdc-diary] NICE suggests making self-monitoring as easy as possible with tools the person already uses.[^nice-monitor]

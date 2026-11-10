@@ -3,6 +3,9 @@ title: "Deteriorated from mild to moderate this year. Strict pacing has stabilis
 link: "https://www.reddit.com/r/cfs/comments/1xkaq6k/deteriorated_from_mild_to_moderate_this_year/"
 published: 2026-10-31
 ---
+*By a member of r/cfs, 2026.*
+
+Cited in: [[Daily life and caring at home|Daily life and caring at home]]
 
 ## Their account (paraphrased)
 
@@ -20,6 +23,6 @@ They report a brutal multi-day bedbound crash after pushing too hard in late Jun
 
 ## Quotes
 
-> **OP:** “Strict pacing has definitely helped. My constant flu-like symptoms have dialled down compared to the summer, and I’m avoiding the massive multi-week crashes.” ^q5
+> **The poster:** “Strict pacing has definitely helped. My constant flu-like symptoms have dialled down compared to the summer, and I’m avoiding the massive multi-week crashes.” ^q5
 
-> **OP:** “My daily energy envelope is around 1,800–3,000 steps, and I try to keep my heart rate under 105–110 bpm.” ^q6
+> **The poster:** “My daily energy envelope is around 1,800–3,000 steps, and I try to keep my heart rate under 105–110 bpm.” ^q6

@@ -5,6 +5,9 @@ doi: "10.1007/s10354-026-01182-3"
 published: 2026-07-29
 created: 2026-11-08 13:10:05
 ---
+*By Joachim Hermisson et al., 2026.*
+
+Cited in: [[Daily life and caring at home|Daily life and caring at home]] · [[FAQ|❓ FAQ]]
 
 > [!info] About this source
 > **What:** An open-access 2026 consensus article presenting a transdisciplinary guide to home-based care for adults with severe ME/CFS.
@@ -14,61 +17,38 @@ created: 2026-11-08 13:10:05
 > **Used for:** Severe-illness pacing, adapting home care and sensory conditions, supporting communication and caregivers, and planning clinician visits and care.
 
 ## Highlights
-- Limits its recommendations to adults (≥ 18 years) with severe ME/CFS. [[#^q1]]
-- Focuses on home care and covers symptom management, basic care, and pacing. [[#^q2]]
-- Identifies family members and close friends providing day-to-day care as a key target audience. [[#^q3]]
-- Explains that its recommendations combine patient, family-caregiver, and professional experience, with research support where available and group consensus otherwise. [[#^q4]]
-- Explicitly says it is not exhaustive, legally binding, or universally applicable. [[#^q22]]
-- Defines pacing as managing activity, exertion, and stimuli to prevent overexertion and PEM-induced crashes. [[#^q5]]
-- Says severe-illness pacing increasingly becomes the care team's responsibility, with interventions assessed for how they affect the person's total burden. [[#^q6]]
-- Sets stabilization, not activation, as the goal; recommends minimizing exertion and delegating tasks when adequate care resources are available. [[#^q7]]
-- Says physical, cognitive, emotional, orthostatic, and sensory demands accumulate; a doctor visit may mean strict rest for the rest of that day. [[#^q8]]
-- Recommends sufficiently long rest after care interventions, ideally lying down in a low-stimulus environment, and spreading small tasks through the day. [[#^q9]]
-- Describes severe sensory intolerance to light, noise, touch, odors, and chemicals as possible PEM/crash triggers, not psychological “hypersensitivity.” [[#^q10]]
-- Lists home-environment adaptations including a quiet room, darkening, ventilation, air conditioning, and hard floors. [[#^q11]]
-- Advises avoiding perfumes and strong odors and using fragrance-free products or minimizing cleaning chemicals according to tolerance. [[#^q12]]
-- Says personal hygiene should not exceed the person's energy limits, with dignity and prevention of deterioration prioritized. [[#^q13]]
-- Recommends basic nonverbal communication and a clear “stop” signal that immediately halts care activity. [[#^q14]]
-- Says family caregivers should recognize their limits and that stabilizing the care team and networking in self-help groups matter. [[#^q15]]
-- Calls for professional guidance, emotional support, burnout awareness, and respite/counseling for caregivers. [[#^q16]]
-- Says home visits require advance planning and clear communication, and the plan may need to change with the patient's fluctuating capacity. [[#^q17]] [[#^q18]]
-- Describes coordinating with trusted caregivers when needed while clarifying the patient's wishes about participation and representation. [[#^q19]]
-- Says a detailed care plan can help caregivers carry out routines without repeatedly asking the patient for explanations. [[#^q20]]
-- Recommends documenting which familiar physicians to contact in an emergency, how to reach them, and whether home visits can be arranged. [[#^q21]]
+- Limits its recommendations to adults (≥ 18 years) with severe ME/CFS.
+- Focuses on home care and covers symptom management, basic care, and pacing.
+- Identifies family members and close friends providing day-to-day care as a key target audience.
+- Explains that its recommendations combine patient, family-caregiver, and professional experience, with research support where available and group consensus otherwise.
+- Explicitly says it is not exhaustive, legally binding, or universally applicable.
+- Defines pacing as managing activity, exertion, and stimuli to prevent overexertion and PEM-induced crashes.
+- Says severe-illness pacing increasingly becomes the care team's responsibility, with interventions assessed for how they affect the person's total burden. [[#^q6|passage]]
+- Sets stabilization, not activation, as the goal; recommends minimizing exertion and delegating tasks when adequate care resources are available. [[#^q7|passage]]
+- Says physical, cognitive, emotional, orthostatic, and sensory demands accumulate; a doctor visit may mean strict rest for the rest of that day. [[#^q8|passage]]
+- Recommends sufficiently long rest after care interventions, ideally lying down in a low-stimulus environment, and spreading small tasks through the day. [[#^q9|passage]]
+- Describes severe sensory intolerance to light, noise, touch, odors, and chemicals as possible PEM/crash triggers, not psychological “hypersensitivity.”
+- Lists home-environment adaptations including a quiet room, darkening, ventilation, air conditioning, and hard floors. [[#^q11|passage]]
+- Advises avoiding perfumes and strong odors and using fragrance-free products or minimizing cleaning chemicals according to tolerance. [[#^q12|passage]]
+- Says personal hygiene should not exceed the person's energy limits, with dignity and prevention of deterioration prioritized. [[#^q13|passage]]
+- Recommends basic nonverbal communication and a clear “stop” signal that immediately halts care activity. [[#^q14|passage]]
+- Says family caregivers should recognize their limits and that stabilizing the care team and networking in self-help groups matter. [[#^q15|passage]]
+- Calls for professional guidance, emotional support, burnout awareness, and respite/counseling for caregivers. [[#^q16|passage]]
+- Says home visits require advance planning and clear communication, and the plan may need to change with the patient's fluctuating capacity.
+- Describes coordinating with trusted caregivers when needed while clarifying the patient's wishes about participation and representation.
+- Says a detailed care plan can help caregivers carry out routines without repeatedly asking the patient for explanations. [[#^q20|passage]]
+- Recommends documenting which familiar physicians to contact in an emergency, how to reach them, and whether home visits can be arranged. [[#^q21|passage]]
 
-## Article
+## Quoted passages
 ![[severe-me-cfs-home-based-care-expert-statement.pdf]]
 
-### 2.2 Population, users, and objectives
-
-#### Population
-
-The recommendations in this guide apply to adult patients (≥ 18 years) with severe ME/CFS. ^q1
-
-The guide is generally applicable in various care settings. However, it has a particular focus on home care, since most people with severe ME/CFS receive care exclusively at home. It focuses on care interventions in the areas of symptom management, basic care, and measures for managing illness-related limitations (pacing). ^q2
-
-#### Users
-
-This guide is intended for anyone formally or informally involved in the care and support of people with ME/CFS. In most cases, day-to-day care is provided at home by family members or close friends, so they are a key target group. ^q3
-
-### 2.3 Methodology
-
-While the guide differs from formally evidence-based clinical guidelines, its planning and organization are based in part on established frameworks. Accordingly, it is a structured compilation of practice-relevant recommendations from the perspectives of patients, caregivers, and healthcare professionals. Where possible, these recommendations are supported by existing scientific literature. Alternatively, they were consensually agreed upon within the project group. ^q4
-This guide is not exhaustive, legally binding, or universally applicable. Rather than a legally binding set of guidelines, it is intended as a professional resource providing guidance on content for care practice. ^q22
-
 ### 3.3 Pacing as a central principle of care
-
-Pacing encompasses all measures and strategies for managing activities, exertion, and stimuli to prevent overexertion and PEM-induced crashes. ^q5
 
 For patients with severe illness, pacing increasingly becomes the responsibility of the care team. All care interventions (including those described in this guide) must be evaluated to determine whether they will reduce or unintentionally increase the overall burden in a given case. ^q6
 
 - The goal is not activation, but stabilization. Rather than encouraging patients to do as much as possible on their own, the priority is to minimize exertion. If adequate care resources are available, patients should be encouraged to delegate as many tasks as possible. ^q7
 - Stresses accumulate and must be weighed against one another. Physical, cognitive, emotional, orthostatic, and sensory exertion from activities or care interventions add up and can reinforce one another. Every intervention consumes a portion of limited resources. Therefore, care procedures must always be planned within the context of the total daily exertion. For instance, if a doctor’s visit is scheduled for a given day, it may be necessary to spend the remainder of the day in strict rest to avoid a crash. ^q8
 - Rest periods are an essential part of care. After each care intervention, sufficiently long rest periods are required—ideally in a low-stimulus environment while lying down and without additional demands. For very seriously affected patients, it may be necessary to spread even minor care tasks throughout the day and to schedule longer breaks between steps. ^q9
-
-### 3.4.1 Sensory intolerance
-
-Intolerance to light, noise, touch, odors, and/or chemicals is a common symptom of ME/CFS, often becoming extremely pronounced in severe cases. This hypersensitivity can affect multiple sensory modes simultaneously and fluctuate significantly over time. Even minor stimuli may be perceived as painful, overwhelming, or autonomically destabilizing; they may trigger a PEM-induced worsening of symptoms and potentially lead to a crash. Hypersensitivity to stimuli is an expression of the impaired neuroimmunological and autonomic regulation in ME/CFS and must not be mistaken for “hypersensitivity in the psychological sense.” ^q10
 
 ### 4.6 Safety, Protection, and Infection Control
 
@@ -91,17 +71,7 @@ In professional care settings, “visible or complete cleanliness” is often im
 
 #### Family members and primary caregivers as an important resource
 
-At the same time, family members and primary caregivers need guidance, professional feedback, and emotional support. Family members caring for people with severe ME/CFS often assume responsibilities that extend well beyond traditional caregiving duties. They coordinate medical appointments; document medications and symptoms; organize daily life; and represent the patient’s interests within the healthcare, social, and educational systems. They also provide continuous emotional support while witnessing the progression of the illness and its unpredictable, severe symptoms.
-
 Against this backdrop, professional care plays a central role. Rather than providing direct nursing care, it involves coordination, organization, and advisory tasks. Experienced nursing staff should guide, evaluate, and—where necessary—adjust and re-instruct the care routines. Equally important is the proactive identification of potential signs of caregiver burnout as well as—where possible—the provision of appropriate respite care, counseling, and support. This protects not only the caregivers but also ensures the stability and continuity of the overall care situation. ^q16
-
-#### 5.2 Home visits
-
-A safe home visit to people with ME/CFS requires careful planning, clear communication beforehand, and a structured on-site approach. ^q17
-
-Since patients’ capacities can fluctuate greatly, the timing, scope, and specific implementation of the measures must be reassessed on the day of the home visit and adjusted as necessary. Even with careful preparation, it may be necessary to shorten, postpone, or completely cancel the visit. ^q18
-
-In advance, it should be clarified to what extent the patient wishes and is able to participate in organizational decisions. If possible, feedback should be obtained directly, for example via a brief message or a formal authorization of a representative. In practice, coordination often takes place through family members or primary caregivers who are familiar with the individual’s situation. ^q19
 
 #### 5.3 Care planning and emergency measures
 

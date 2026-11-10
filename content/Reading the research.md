@@ -5,7 +5,6 @@ updated: 2026-11-08
 ---
 ← Previous: [[Diagnosis and getting care|Diagnosis and getting care]] · [[index|🏠 Home]]
 
-
 >[!warning] Evidence log, not medical advice
 >This page explains what research found and what people report. It doesn't recommend treatments. Talk through any change with a clinician who knows ME/CFS.
 
@@ -40,13 +39,6 @@ updated: 2026-11-08
 
 **What changed:** NICE's 2021 guideline defines GET as fixed incremental increases in physical activity from a baseline,[^nice-getdef] and says not to offer it, or any programme based on deconditioning and exercise-avoidance theories.[^nice-noget] It says CBT has sometimes been assumed to be a cure, but should only support people in managing symptoms and the distress of a chronic illness,[^nice-cbt] and should be offered only if the person wants it after discussion.[^nice-cbt-offer] The CDC says standard exercise recommendations for healthy people can substantially harm people with ME/CFS.[^cdc-exercise]
 
-> [!info] 💊 Treatment notes (research vault)
-> - 💊Graded exercise therapy: guideline stance *not recommended*; harm signal recorded
-> - 💊Cognitive behavioral therapy: guideline stance *supportive only*; harm signal recorded
-> - 💊Pacing: guideline stance *recommended*
->
-> These notes collect every corpus source on each treatment.
-
 > [!quote] 🗣️ Lived experience: r/cfs, 2024
 > One person describes exercise programs designed by trainers before their diagnosis: "Each time they crafted a program for me, it made me crash BIG TIME within days." One person's experience of exercise programs, not of a GET trial.[[A 30-year journey to a CFS diagnosis#^q1|r/cfs, 2024]][[A 30-year journey to a CFS diagnosis#^q2|q2]][[A 30-year journey to a CFS diagnosis#^q6|q6]]
 
@@ -69,9 +61,9 @@ The IOM figure includes an estimate of undiagnosed people;[^iom-prevalence] the 
 [^nice-cbt]: **NICE 2021**, guideline NG206, box 5. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q90|passage]]
 [^ccc-def]: **Carruthers 2003**, Canadian Consensus Criteria (expert consensus). [[Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Clinical Working Case Definition, Diagnostic and Treatment Protocols#^q2|passage]] · [[Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Clinical Working Case Definition, Diagnostic and Treatment Protocols#^q3|passage]]
 [^ccc-duration]: **Carruthers 2003**, Canadian Consensus Criteria. [[Myalgic Encephalomyelitis-Chronic Fatigue Syndrome Clinical Working Case Definition, Diagnostic and Treatment Protocols#^q7|passage]]
-[^larun-criteria]: **Larun et al. (Cochrane)**, systematic review; the vault's copy is dated 2024, with searches to May 2014 of 8 RCTs (Fukuda or Oxford; PEM not required). [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q9|passage]]
+[^larun-criteria]: **Larun et al. (Cochrane)**, systematic review; the version cited is dated 2024, with searches to May 2014 of 8 RCTs (Fukuda or Oxford; PEM not required). [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q9|passage]]
 [^pace-blinding]: **White 2011 (PACE)**, RCT methods. [[PACE trial of adaptive pacing, CBT, graded exercise and specialist medical care for CFS#^q4|passage]]
-[^larun-bias]: **Larun et al. (Cochrane)**, systematic review; the vault's copy is dated 2024, with searches to May 2014, risk of bias. [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q8|passage]]
+[^larun-bias]: **Larun et al. (Cochrane)**, systematic review; the version cited is dated 2024, with searches to May 2014, risk of bias. [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q8|passage]]
 [^vink-blinding]: **Vink 2018**, narrative re-analysis. [[Graded exercise therapy for ME-CFS is not effective and unsafe - re-analysis of a Cochrane review#^q3|passage]]
 [^vink-abstract]: **Vink 2018**, narrative re-analysis of the 2017 Cochrane review. [[Graded exercise therapy for ME-CFS is not effective and unsafe - re-analysis of a Cochrane review#^q1|passage]]
 [^vink-dropouts]: **Vink 2018**, narrative re-analysis. [[Graded exercise therapy for ME-CFS is not effective and unsafe - re-analysis of a Cochrane review#^q4|passage]]
@@ -87,7 +79,7 @@ The IOM figure includes an estimate of undiagnosed people;[^iom-prevalence] the 
 [^wilshire-recovery]: **Wilshire 2018**, reanalysis results. [[Rethinking the treatment of CFS - a reanalysis of the PACE trial#^q7|passage]]
 [^wilshire-longterm]: **Wilshire 2018**, long-term outcomes. [[Rethinking the treatment of CFS - a reanalysis of the PACE trial#^q9|passage]]
 [^wilshire-conclusion]: **Wilshire 2018**, authors' conclusions. [[Rethinking the treatment of CFS - a reanalysis of the PACE trial#^q3|passage]]
-[^larun-findings]: **Larun et al. (Cochrane)**, systematic review; the vault's copy is dated 2024, with searches to May 2014, summary of findings (Fukuda or Oxford cohorts; PEM not required). [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q1|passage]] · [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q3|passage]] · [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q6|passage]]
+[^larun-findings]: **Larun et al. (Cochrane)**, systematic review; the version cited is dated 2024, with searches to May 2014, summary of findings (Fukuda or Oxford cohorts; PEM not required). [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q1|passage]] · [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q3|passage]] · [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q6|passage]]
 [^larun-conclusion]: **Larun et al. (Cochrane)**, authors' conclusions. [[Exercise therapy for chronic fatigue syndrome Cochrane review#^q4|passage]]
 [^nice-getdef]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q88|passage]]
 [^nice-cbt-offer]: **NICE 2021**, guideline NG206. [[Myalgic encephalomyelitis (or encephalopathy)-chronic fatigue syndrome diagnosis and management NG206#^q91|passage]]

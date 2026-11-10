@@ -4,6 +4,10 @@ link: https://doi.org/10.1016/S0140-6736(11)60096-2
 doi: 10.1016/S0140-6736(11)60096-2
 published: 2011-02-18
 ---
+*By Peter D White, 2011.*
+
+Cited in: [[Reading the research|Reading the research]] · [[FAQ|❓ FAQ]] · [[Glossary|📖 Glossary]]
+
 ## Summary
 PACE was a UK multicentre randomised trial in secondary-care clinics. It compared specialist medical care (SMC) alone with SMC plus adaptive pacing therapy (APT), SMC plus cognitive behaviour therapy (CBT), or SMC plus graded exercise therapy (GET) in 641 adults selected by the Oxford criteria. The authors reported that CBT and GET added to SMC moderately improved self-rated fatigue and physical function at 52 weeks, that APT did not, and that serious adverse reactions were rare in all arms. It is the largest trial behind earlier CBT/GET recommendations, and later reanalyses and guideline reviews contested its conclusions.
 
@@ -23,13 +27,13 @@ PACE was a UK multicentre randomised trial in secondary-care clinics. It compare
 - **Safety:** serious adverse reactions occurred in 2/159 (APT), 3/161 (CBT), 2/160 (GET), and 2/160 (SMC). SAEs were more frequent with GET than with SMC (p=0.0433); the authors attributed this to events their independent scrutinisers judged unrelated to treatment. Rates of serious deterioration did not differ between arms.
 - **Authors' interpretation:** CBT and GET "can safely be added to SMC to moderately improve outcomes", and APT "is not an effective addition".
 
-## Limitations / flags
-- **No PEM requirement:** the cohort was selected by the Oxford definition (`no-pem-criterion`). NICE's 2021 evidence review treated PACE evidence as indirect because fewer than 95% of participants were judged to have PEM. See 🔬NICE NG206 evidence review G non-pharmacological management of ME-CFS -by- National Institute for Health and Care Excellence.
+## Limitations
+- **No PEM requirement:** the cohort was selected by the Oxford definition, which doesn't require PEM. NICE's 2021 evidence review treated PACE evidence as indirect because fewer than 95% of participants were judged to have PEM.
 - **Outcome measurement:** the primary outcomes were self-reported by unmasked participants. Several analysis changes were made after the protocol but before outcome data were examined: the scoring change, the switch from composite to continuous primary outcomes, and the change in entry threshold.
 - **Generalisability:** the trial excluded people who could not attend hospital, so it does not cover housebound or severe ME/CFS.
-- **Declared conflicts** (`conflict-of-interest`): the conflicts section lists consultancy for the UK Departments of Health and Work and Pensions and Swiss Re (PDW), work for insurance companies (JB, TC, MS), and book royalties for several authors. The Department for Work and Pensions was a funder.
+- **Declared conflicts:** the conflicts section lists consultancy for the UK Departments of Health and Work and Pensions and Swiss Re (PDW), work for insurance companies (JB, TC, MS), and book royalties for several authors. The Department for Work and Pensions was a funder.
 - **Later reanalysis:** a protocol-based reanalysis of the primary outcomes using FOI-released data reported smaller, mostly non-significant effects. See [[Rethinking the treatment of CFS - a reanalysis of the PACE trial|Rethinking the treatment of chronic fatigue syndrome—a reanalysis and evaluation of findings from a recent major trial of graded exercise and CBT]].
-- **Lineage:** this is a PACE-era CBT/GET source (`pace-lineage`). No retraction or correction is listed in Crossref or PubMed as of 2026-11-06.
+- **Corrections:** no retraction or correction is listed in Crossref or PubMed as of 2026-11-06.
 
 ## Abstract
 BACKGROUND: Trial findings show cognitive behaviour therapy (CBT) and graded exercise therapy (GET) can be effective treatments for chronic fatigue syndrome, but patients' organisations have reported that these treatments can be harmful and favour pacing and specialist health care. We aimed to assess effectiveness and safety of all four treatments.
@@ -42,14 +46,12 @@ INTERPRETATION: CBT and GET can safely be added to SMC to moderately improve out
 
 FUNDING: UK Medical Research Council, Department of Health for England, Scottish Chief Scientist Office, Department for Work and Pensions.
 
-## Full text
+## Quoted passages
 
 ### Methods and case definition
 PACE was a parallel, four group, multicentre, randomised trial, with outcomes assessed up to 52 weeks after randomisation for patients with chronic fatigue syndrome. We recruited 641 participants from consecutive new outpatients attending six specialist chronic fatigue syndrome clinics in the UK National Health Service between March 18, 2005, and Nov 28, 2008, and completed outcome data collection in January, 2010. ^q1
 
 We selected participants in accordance with Oxford criteria for chronic fatigue syndrome. These criteria require fatigue to be the main symptom, accompanied by significant disability, in the absence of an exclusionary medical or psychiatric diagnosis (psychosis, bipolar disorder, substance misuse, an organic brain disorder, or an eating disorder). Other eligibility criteria consisted of a bimodal score of 6 of 11 or more on the Chalder fatigue questionnaire and a score of 60 of 100 or less on the short form-36 physical function subscale. 11 months after the trial began, this requirement was changed from a score of 60 to a score of 65 to increase recruitment. ^q2
-
-We excluded patients who were younger than 18 years or at significant risk of self-harm, unable to attend hospital appointments, unable to speak and read English, had medical needs that made participation inappropriate, had previously received a trial treatment for their present illness at a PACE trial clinic. Participants were also assessed by international criteria for chronic fatigue syndrome, requiring four or more accompanying symptoms, and the London criteria for myalgic encephalomyelitis (version 2), requiring postexertional fatigue, poor memory and concentration, symptoms that fluctuate, and no primary depressive or anxiety disorder (interpreted as an absence of any such disorder). ^q3
 
 As with any therapy trial, participants, therapists, and doctors could not be masked to treatment allocation and it was also impractical to mask research assessors. The primary outcomes were rated by participants themselves. The statistician undertaking the analysis of primary outcomes was masked to treatment allocation. ^q4
 

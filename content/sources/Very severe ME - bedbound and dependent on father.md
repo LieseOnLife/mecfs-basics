@@ -3,6 +3,9 @@ title: "I can’t with my father burnout"
 link: "https://www.reddit.com/r/mecfs/comments/1t2h32e/i_cant_with_my_father_burnout/"
 published: 2026-05-03
 ---
+*By a member of r/mecfs, 2026.*
+
+Cited in: [[Daily life and caring at home|Daily life and caring at home]]
 
 ## Their account (paraphrased)
 
@@ -24,6 +27,6 @@ They report yelling, denied support, and stress as worsening their distress and 
 
 ## Quotes
 
-> **OP:** “I’m bedridden and completely dependent on my father for basic survival.” ^q7
+> **The poster:** “I’m bedridden and completely dependent on my father for basic survival.” ^q7
 
-> **OP:** “Every day I force myself to suppress emotions I can’t really control because I want to be kinder and easier to care for.” ^q8
+> **The poster:** “Every day I force myself to suppress emotions I can’t really control because I want to be kinder and easier to care for.” ^q8

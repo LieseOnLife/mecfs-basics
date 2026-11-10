@@ -1,9 +1,8 @@
 ---
-title: "❓ ME-CFS: FAQ"
+title: "❓ FAQ"
 updated: 2026-11-08
 ---
 [[index|🏠 Home]]
-
 
 One-line answers; follow the link for the full, footnoted answer.
 

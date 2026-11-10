@@ -5,7 +5,6 @@ updated: 2026-11-08
 ---
 [[index|🏠 Home]] · Next: [[Post-exertional malaise|Post-exertional malaise]] →
 
-
 >[!warning] Evidence log, not medical advice
 >This page explains what research found and what people report. It doesn't recommend treatments. Talk through any change with a clinician who knows ME/CFS.
 

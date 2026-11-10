@@ -4,6 +4,10 @@ link: https://doi.org/10.1002/14651858.CD003200.pub9
 doi: 10.1002/14651858.CD003200.pub9
 published: 2024-12-19
 ---
+*By Lillebeth Larun, 2024.*
+
+Cited in: [[Reading the research|Reading the research]] · [[FAQ|❓ FAQ]]
+
 ## Summary
 This Cochrane review (CD003200) pooled eight randomised trials of exercise therapy for adults with CFS. It compared exercise with passive controls, CBT, adaptive pacing, and an antidepressant. The authors conclude that exercise therapy "probably has a positive effect on fatigue" compared with usual care or passive therapies at the end of treatment. Long-term effects and harms are uncertain, and all included trials used the CDC 1994 (Fukuda) or Oxford criteria.
 
@@ -18,7 +22,7 @@ This Cochrane review (CD003200) pooled eight randomised trials of exercise thera
 - **Included trials:** eight, with 1,518 participants: Fulcher 1997, Jason 2007, Moss-Morris 2005, Powell 2001, Wallman 2004, Wearden 1998, Wearden 2010 (FINE), and White 2011 (PACE).
   - Seven used aerobic exercise (walking, swimming, cycling, or dancing, at intensities from very low to quite rigorous); one used anaerobic exercise.
   - Programmes lasted 12–26 weeks, with long-term follow-up at 50–72 weeks.
-- **Case definitions:** all trials used CDC 1994 (Fukuda), Oxford, or both. Neither definition requires PEM, so this note uses `case_definition: [mixed]`, `pem_required: false`, and `no-pem-criterion`.
+- **Case definitions:** all trials used CDC 1994 (Fukuda), Oxford, or both. Neither definition requires PEM.
 - **Comparators:** passive control (treatment as usual, relaxation, or flexibility), CBT (2 trials), cognitive therapy, supportive listening, adaptive pacing (PACE only), and fluoxetine (Wearden 1998, alone or combined).
 - **Analysis:** SMDs were re-expressed on the 0–33 Chalder scale, risk ratios were used for dichotomous outcomes, and certainty was rated with GRADE. All trials had high risk of performance and detection bias; most had low risk of selection bias.
 - **Funding:** internal support from the University of Oxford Department of Psychiatry and the Norwegian Knowledge Centre. The authors declare nothing to disclose.
@@ -44,8 +48,8 @@ This Cochrane review (CD003200) pooled eight randomised trials of exercise thera
 
 **Authors' caveat:** patients diagnosed by other criteria "may experience different effects". The authors also say comparative effectiveness against CBT and pacing is hard to judge because of limited evidence.
 
-## Limitations / flags
-- **Cohorts:** no included trial required PEM (`no-pem-criterion`). PACE contributes the largest share of participants and is the only pacing comparison (`pace-lineage`).
+## Limitations
+- **Cohorts:** no included trial required PEM. PACE contributes the largest share of participants and is the only pacing comparison.
 - **Outcomes:** all trials were unblinded with mostly self-rated outcomes. The harms evidence rests largely on one trial.
 - **2019 amendment:** pub8 was amended after a formal complaint by Robert Courtney and an editorial review. The changes were:
   - fatigue analyses restructured around SMDs;
@@ -74,16 +78,10 @@ MAIN RESULTS: We included eight RCTs with data from 1518 participants. Exercise 
 
 AUTHORS' CONCLUSIONS: Exercise therapy probably has a positive effect on fatigue in adults with CFS compared to usual care or passive therapies. The evidence regarding adverse effects is uncertain. Due to limited evidence it is difficult to draw conclusions about the comparative effectiveness of CBT, adaptive pacing or other interventions. All studies were conducted with outpatients diagnosed with 1994 criteria of the Centers for Disease Control and Prevention or the Oxford criteria, or both. Patients diagnosed using other criteria may experience different effects. ^q4
 
-## Full text
-
-### Methods
-We included randomised controlled trials (RCTs), cluster‐RCTs and randomised cross‐over trials. We included studies of male and female participants over the age of 18 years, irrespective of cultures and settings (e.g. primary, secondary or tertiary care). ^q5
+## Quoted passages
 
 ### Summary of findings: exercise therapy compared with passive control
 Exercise therapy probably reduces fatigue at end of treatment (SMD −0.66, 95% CI −1.01 to −0.31; 7 studies, 840 participants; moderate‐certainty evidence; re‐expressed MD −3.4, 95% CI −5.3 to −1.6; scale 0 to 33). We are uncertain if fatigue is reduced in the long term because the certainty of the evidence is very low (SMD −0.62, 95% CI −1.32 to 0.07; 4 studies, 670 participants; re‐expressed MD −3.2, 95% CI −6.9 to 0.4; scale 0 to 33). We are uncertain about the risk of serious adverse reactions because the certainty of the evidence is very low (RR 0.99, 95% CI 0.14 to 6.97; 1 study, 319 participants). ^q6
-
-### Summary of findings: exercise therapy compared with adaptive pacing
-Exercise therapy may slightly reduce fatigue at end of treatment (MD −2.00, 95% CI −3.57 to −0.43; scale 0 to 33; 1 study, 305 participants; low‐certainty evidence) and at long‐term follow‐up (MD −2.50, 95% CI −4.16 to −0.84; scale 0 to 33; 1 study, 307 participants; low‐certainty evidence). We are uncertain about the risk of serious adverse reactions (RR 0.99, 95% CI 0.14 to 6.97; 1 study, 319 participants; very low‐certainty evidence). ^q7
 
 ### Risk of bias and conclusion
 Most studies had a low risk of selection bias. All had a high risk of performance and detection bias. ^q8
